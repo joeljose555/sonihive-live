@@ -1,0 +1,183 @@
+{
+  "mainSolution": "Architectural Acoustics",
+  "subSolution": "Educational Spaces",
+  "slug": "educational-spaces-acoustic",
+  "group": "architectural-acoustics",
+  "sourceUrl": "https://www.soundbox-sys.com/solution/educational-spaces-acoustic",
+  "title": "Educational Spaces",
+  "pageTitle": "Solution Details - Soundbox",
+  "description": "SoundBox solution details page",
+  "heroImage": "/solutions2/architectural-acoustics/educational-spaces-acoustic/images/hero.webp",
+  "images": [
+    {
+      "file": "images/hero.webp",
+      "publicPath": "/solutions2/architectural-acoustics/educational-spaces-acoustic/images/hero.webp",
+      "alt": "1929796565791645697",
+      "role": "hero",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/soundbox-acoustic-classroom_1761735749446.webp"
+    },
+    {
+      "file": "images/content-001.webp",
+      "publicPath": "/solutions2/architectural-acoustics/educational-spaces-acoustic/images/content-001.webp",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/soundbox-classroom-acoustic-solution_1761735763737.webp"
+    },
+    {
+      "file": "images/content-002.webp",
+      "publicPath": "/solutions2/architectural-acoustics/educational-spaces-acoustic/images/content-002.webp",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/classroom-noise-reduction-effects-comparison_1761735784905.webp"
+    },
+    {
+      "file": "images/content-003.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/educational-spaces-acoustic/images/content-003.jpg",
+      "alt": "Fabric acoustic panel",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_116_1750332601017_1761813919851.jpg"
+    },
+    {
+      "file": "images/content-004.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/educational-spaces-acoustic/images/content-004.jpg",
+      "alt": "Broadband Absorption Wall",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-2_1750331165333_1761815063883.jpg"
+    },
+    {
+      "file": "images/content-005.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/educational-spaces-acoustic/images/content-005.jpg",
+      "alt": "G50S",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/G50s_1761813480499.jpg"
+    },
+    {
+      "file": "images/content-006.webp",
+      "publicPath": "/solutions2/architectural-acoustics/educational-spaces-acoustic/images/content-006.webp",
+      "alt": "SM",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/SM_1762136504517.webp"
+    },
+    {
+      "file": "images/content-007.webp",
+      "publicPath": "/solutions2/architectural-acoustics/educational-spaces-acoustic/images/content-007.webp",
+      "alt": "ML",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/ML_1762136820111.webp"
+    },
+    {
+      "file": "images/content-008.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/educational-spaces-acoustic/images/content-008.jpg",
+      "alt": "Cloud Diffuser",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-5_1750400447036_1761815849136.jpg"
+    },
+    {
+      "file": "images/content-009.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/educational-spaces-acoustic/images/content-009.jpg",
+      "alt": "Customized shape fabric acoustic panel",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/MT30R_1761813952701.jpg"
+    },
+    {
+      "file": "images/content-010.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/educational-spaces-acoustic/images/content-010.jpg",
+      "alt": "Matrix Acoustic Baffle",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_116-1_1750382285973_1761813578061.jpg"
+    },
+    {
+      "file": "images/content-011.webp",
+      "publicPath": "/solutions2/architectural-acoustics/educational-spaces-acoustic/images/content-011.webp",
+      "alt": "Carbon Plastic Slotted Acoustic Panel",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/carbon-plastic-slotted-sound-absorbing-board_1762931262040.webp"
+    }
+  ],
+  "sections": [
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Fabric acoustic panel"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Broadband Absorption Wall"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "G50S"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Cloud Diffuser"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Customized shape fabric acoustic panel"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Matrix Acoustic Baffle"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Carbon Plastic Slotted Acoustic Panel"
+    }
+  ],
+  "relatedProducts": [
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935261853266198529",
+      "upstreamTitle": "Fabric acoustic panel",
+      "localSlug": "fabric-acoustic-panels",
+      "matched": true
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935262891088003073",
+      "upstreamTitle": "Broadband Absorption Wall",
+      "localSlug": null,
+      "matched": false
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935268608981319682",
+      "upstreamTitle": "G50S",
+      "localSlug": null,
+      "matched": false
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935586397118369793",
+      "upstreamTitle": "Cloud Diffuser",
+      "localSlug": null,
+      "matched": false
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935865613228236802",
+      "upstreamTitle": "Customized shape fabric acoustic panel",
+      "localSlug": "fabric-acoustic-panels",
+      "matched": true
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935871158769213442",
+      "upstreamTitle": "Matrix Acoustic Baffle",
+      "localSlug": "acoustic-baffles",
+      "matched": true
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935879920007569409",
+      "upstreamTitle": "Carbon Plastic Slotted Acoustic Panel",
+      "localSlug": "fabric-acoustic-panels",
+      "matched": true
+    }
+  ],
+  "relatedLocalSlugs": [
+    "fabric-acoustic-panels",
+    "acoustic-baffles"
+  ],
+  "scrapedAt": "2026-04-18T15:42:57.975Z"
+}

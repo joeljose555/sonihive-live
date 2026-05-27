@@ -1,0 +1,112 @@
+{
+  "mainSolution": "Architectural Acoustics",
+  "subSolution": "Healthcare facilities acoustic",
+  "slug": "healthcare-facilities-acoustic",
+  "group": "architectural-acoustics",
+  "sourceUrl": "https://www.soundbox-sys.com/solution/healthcare-facilities-acoustic",
+  "title": "Healthcare facilities acoustic",
+  "pageTitle": "Solution Details - Soundbox",
+  "description": "SoundBox solution details page",
+  "heroImage": "/solutions2/architectural-acoustics/healthcare-facilities-acoustic/images/hero.webp",
+  "images": [
+    {
+      "file": "images/hero.webp",
+      "publicPath": "/solutions2/architectural-acoustics/healthcare-facilities-acoustic/images/hero.webp",
+      "alt": "1929796418735153154",
+      "role": "hero",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/noise-reduction-in-medical-institutions_1761736186468.webp"
+    },
+    {
+      "file": "images/content-001.webp",
+      "publicPath": "/solutions2/architectural-acoustics/healthcare-facilities-acoustic/images/content-001.webp",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/soundproof-cabin-in-medical-institutions_1761736197515.WEBP"
+    },
+    {
+      "file": "images/content-002.webp",
+      "publicPath": "/solutions2/architectural-acoustics/healthcare-facilities-acoustic/images/content-002.webp",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/hospital-soundproof-and-protective-cabin_1761736219253.WEBP"
+    },
+    {
+      "file": "images/content-003.webp",
+      "publicPath": "/solutions2/architectural-acoustics/healthcare-facilities-acoustic/images/content-003.webp",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/noise-reduction-in-hospital-lobby_1761736235470.WEBP"
+    },
+    {
+      "file": "images/content-004.webp",
+      "publicPath": "/solutions2/architectural-acoustics/healthcare-facilities-acoustic/images/content-004.webp",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/ward-noise-reduction-decoration_1761736251276.WEBP"
+    },
+    {
+      "file": "images/content-005.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/healthcare-facilities-acoustic/images/content-005.jpg",
+      "alt": "Engineering Soundproof Door (Hospital)",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_116_1750331640370_1761813521786.jpg"
+    },
+    {
+      "file": "images/content-006.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/healthcare-facilities-acoustic/images/content-006.jpg",
+      "alt": "Environmental Damping Sound Insulation Panel",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/G15E_1750409909885_1761880395922.jpg"
+    },
+    {
+      "file": "images/content-007.webp",
+      "publicPath": "/solutions2/architectural-acoustics/healthcare-facilities-acoustic/images/content-007.webp",
+      "alt": "Carbon Plastic Slotted Acoustic Panel",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/carbon-plastic-slotted-sound-absorbing-board_1762931262040.webp"
+    }
+  ],
+  "sections": [
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Engineering Soundproof Door (Hospital)"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Environmental Damping Sound Insulation Panel"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Carbon Plastic Slotted Acoustic Panel"
+    }
+  ],
+  "relatedProducts": [
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935288872487657473",
+      "upstreamTitle": "Engineering Soundproof Door (Hospital)",
+      "localSlug": "soundproof-door",
+      "matched": true
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935294843939233794",
+      "upstreamTitle": "Environmental Damping Sound Insulation Panel",
+      "localSlug": "sound-insulation",
+      "matched": true
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935879920007569409",
+      "upstreamTitle": "Carbon Plastic Slotted Acoustic Panel",
+      "localSlug": "fabric-acoustic-panels",
+      "matched": true
+    }
+  ],
+  "relatedLocalSlugs": [
+    "soundproof-door",
+    "sound-insulation",
+    "fabric-acoustic-panels"
+  ],
+  "scrapedAt": "2026-04-18T15:45:51.990Z"
+}

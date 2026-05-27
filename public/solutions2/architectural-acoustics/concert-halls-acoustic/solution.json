@@ -1,0 +1,226 @@
+{
+  "mainSolution": "Architectural Acoustics",
+  "subSolution": "Concert halls acoustic",
+  "slug": "concert-halls-acoustic",
+  "group": "architectural-acoustics",
+  "sourceUrl": "https://www.soundbox-sys.com/solution/concert-halls-acoustic",
+  "title": "Concert halls acoustic",
+  "pageTitle": "Solution Details - Soundbox",
+  "description": "SoundBox solution details page",
+  "heroImage": "/solutions2/architectural-acoustics/concert-halls-acoustic/images/hero.webp",
+  "images": [
+    {
+      "file": "images/hero.webp",
+      "publicPath": "/solutions2/architectural-acoustics/concert-halls-acoustic/images/hero.webp",
+      "alt": "1929796521600458753",
+      "role": "hero",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/concert-hall-acoustic-scheme_1761736296431.WEBP"
+    },
+    {
+      "file": "images/content-001.webp",
+      "publicPath": "/solutions2/architectural-acoustics/concert-halls-acoustic/images/content-001.webp",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/music-hall-noise-reduction_1761736312611.WEBP"
+    },
+    {
+      "file": "images/content-002.webp",
+      "publicPath": "/solutions2/architectural-acoustics/concert-halls-acoustic/images/content-002.webp",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/piano-room-sound-absorbing-material_1761736336276.WEBP"
+    },
+    {
+      "file": "images/content-003.webp",
+      "publicPath": "/solutions2/architectural-acoustics/concert-halls-acoustic/images/content-003.webp",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/piano-room-noise-reduction_1761736352744.WEBP"
+    },
+    {
+      "file": "images/content-004.webp",
+      "publicPath": "/solutions2/architectural-acoustics/concert-halls-acoustic/images/content-004.webp",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/music-room-noise-reduction_1761736369517.WEBP"
+    },
+    {
+      "file": "images/content-005.webp",
+      "publicPath": "/solutions2/architectural-acoustics/concert-halls-acoustic/images/content-005.webp",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/piano-room-sound-absorbing-decoration_1761736385852.WEBP"
+    },
+    {
+      "file": "images/content-006.webp",
+      "publicPath": "/solutions2/architectural-acoustics/concert-halls-acoustic/images/content-006.webp",
+      "alt": "Hacker Acoustic Panel",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/ck1-hacker-sound-absorbing-board_1762920079852.webp"
+    },
+    {
+      "file": "images/content-007.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/concert-halls-acoustic/images/content-007.jpg",
+      "alt": "Combined Diffusion Unit",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-6_1750332207499_1761814306242.jpg"
+    },
+    {
+      "file": "images/content-008.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/concert-halls-acoustic/images/content-008.jpg",
+      "alt": "Variable Sound Absorption and Diffusion Unit",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_116-1_1750332178380_1761814278236.jpg"
+    },
+    {
+      "file": "images/content-009.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/concert-halls-acoustic/images/content-009.jpg",
+      "alt": "Mobile Acoustic Baffle",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/AQ150W_1761874738511.jpg"
+    },
+    {
+      "file": "images/content-010.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/concert-halls-acoustic/images/content-010.jpg",
+      "alt": "Wave Acoustic Body",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-1_1750403107185_1761815596304.jpg"
+    },
+    {
+      "file": "images/content-011.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/concert-halls-acoustic/images/content-011.jpg",
+      "alt": "Mobile Reflection Panel",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_116_1750333543506_1761814265956.jpg"
+    },
+    {
+      "file": "images/content-012.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/concert-halls-acoustic/images/content-012.jpg",
+      "alt": "Musical Acoustic Shell",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-2_1750334056859_1761814249769.jpg"
+    },
+    {
+      "file": "images/content-013.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/concert-halls-acoustic/images/content-013.jpg",
+      "alt": "Solid Wood Diffusion Unit",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-5_1750334274507_1761814236407.jpg"
+    },
+    {
+      "file": "images/content-014.webp",
+      "publicPath": "/solutions2/architectural-acoustics/concert-halls-acoustic/images/content-014.webp",
+      "alt": "Carbon Plastic Slotted Acoustic Panel",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/carbon-plastic-slotted-sound-absorbing-board_1762931262040.webp"
+    }
+  ],
+  "sections": [
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Hacker Acoustic Panel"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Combined Diffusion Unit"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Variable Sound Absorption and Diffusion Unit"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Mobile Acoustic Baffle"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Wave Acoustic Body"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Mobile Reflection Panel"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Musical Acoustic Shell"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Solid Wood Diffusion Unit"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Carbon Plastic Slotted Acoustic Panel"
+    }
+  ],
+  "relatedProducts": [
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935264788498857986",
+      "upstreamTitle": "Hacker Acoustic Panel",
+      "localSlug": "fabric-acoustic-panels",
+      "matched": true
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935283135518646273",
+      "upstreamTitle": "Combined Diffusion Unit",
+      "localSlug": null,
+      "matched": false
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935285057185161217",
+      "upstreamTitle": "Variable Sound Absorption and Diffusion Unit",
+      "localSlug": null,
+      "matched": false
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935545893636055042",
+      "upstreamTitle": "Mobile Acoustic Baffle",
+      "localSlug": "acoustic-baffles",
+      "matched": true
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935595061728350209",
+      "upstreamTitle": "Wave Acoustic Body",
+      "localSlug": null,
+      "matched": false
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935666289705803778",
+      "upstreamTitle": "Mobile Reflection Panel",
+      "localSlug": null,
+      "matched": false
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935667646949023745",
+      "upstreamTitle": "Musical Acoustic Shell",
+      "localSlug": null,
+      "matched": false
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935668950761005058",
+      "upstreamTitle": "Solid Wood Diffusion Unit",
+      "localSlug": null,
+      "matched": false
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935879920007569409",
+      "upstreamTitle": "Carbon Plastic Slotted Acoustic Panel",
+      "localSlug": "fabric-acoustic-panels",
+      "matched": true
+    }
+  ],
+  "relatedLocalSlugs": [
+    "fabric-acoustic-panels",
+    "acoustic-baffles"
+  ],
+  "scrapedAt": "2026-04-18T15:44:54.706Z"
+}

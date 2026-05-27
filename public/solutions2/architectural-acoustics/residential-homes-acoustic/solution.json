@@ -1,0 +1,281 @@
+{
+  "mainSolution": "Architectural Acoustics",
+  "subSolution": "Residential Homes",
+  "slug": "residential-homes-acoustic",
+  "group": "architectural-acoustics",
+  "sourceUrl": "https://www.soundbox-sys.com/solution/residential-homes-acoustic",
+  "title": "Residential Homes",
+  "pageTitle": "Solution Details - Soundbox",
+  "description": "SoundBox solution details page",
+  "heroImage": "/solutions2/architectural-acoustics/residential-homes-acoustic/images/hero.webp",
+  "images": [
+    {
+      "file": "images/hero.webp",
+      "publicPath": "/solutions2/architectural-acoustics/residential-homes-acoustic/images/hero.webp",
+      "alt": "1929796317115555841",
+      "role": "hero",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/%E5%AE%B6%E5%B1%85_01_1761882524725.webp"
+    },
+    {
+      "file": "images/content-001.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/residential-homes-acoustic/images/content-001.jpg",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E5%AE%B6%E5%B1%85_04_1761882528965.jpg"
+    },
+    {
+      "file": "images/content-002.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/residential-homes-acoustic/images/content-002.jpg",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E5%AE%B6%E5%B1%85_07_1761882536930.jpg"
+    },
+    {
+      "file": "images/content-003.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/residential-homes-acoustic/images/content-003.jpg",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E5%AE%B6%E5%B1%85_10_1761882545452.jpg"
+    },
+    {
+      "file": "images/content-004.webp",
+      "publicPath": "/solutions2/architectural-acoustics/residential-homes-acoustic/images/content-004.webp",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E5%AE%B6%E5%B1%85_12_1761882552146.webp"
+    },
+    {
+      "file": "images/content-005.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/residential-homes-acoustic/images/content-005.jpg",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E5%AE%B6%E5%B1%85_15_1761882562845.jpg"
+    },
+    {
+      "file": "images/content-006.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/residential-homes-acoustic/images/content-006.jpg",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E5%AE%B6%E5%B1%85_17_1761882570956.jpg"
+    },
+    {
+      "file": "images/content-007.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/residential-homes-acoustic/images/content-007.jpg",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E5%AE%B6%E5%B1%85_21_1761882580752.jpg"
+    },
+    {
+      "file": "images/content-008.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/residential-homes-acoustic/images/content-008.jpg",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E5%AE%B6%E5%B1%85_24_1761882586907.jpg"
+    },
+    {
+      "file": "images/content-009.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/residential-homes-acoustic/images/content-009.jpg",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E5%AE%B6%E5%B1%85_27_1761882594981.jpg"
+    },
+    {
+      "file": "images/content-010.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/residential-homes-acoustic/images/content-010.jpg",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E5%AE%B6%E5%B1%85_32_1761882609273.jpg"
+    },
+    {
+      "file": "images/content-011.webp",
+      "publicPath": "/solutions2/architectural-acoustics/residential-homes-acoustic/images/content-011.webp",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/mceclip0_1761919000368.webp"
+    },
+    {
+      "file": "images/content-012.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/residential-homes-acoustic/images/content-012.jpg",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E5%AE%B6%E5%B1%85_35_1761882618790.jpg"
+    },
+    {
+      "file": "images/content-013.webp",
+      "publicPath": "/solutions2/architectural-acoustics/residential-homes-acoustic/images/content-013.webp",
+      "alt": "G50M",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/soundproof-door-thumbnail_1763102160191.webp"
+    },
+    {
+      "file": "images/content-014.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/residential-homes-acoustic/images/content-014.jpg",
+      "alt": "G50MP",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/G50MP_1761813362410.jpg"
+    },
+    {
+      "file": "images/content-015.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/residential-homes-acoustic/images/content-015.jpg",
+      "alt": "Damping Sound Insulation Sheet (Single-Sided Aluminum Foil)",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118_1750410057000_1761818168143.jpg"
+    },
+    {
+      "file": "images/content-016.webp",
+      "publicPath": "/solutions2/architectural-acoustics/residential-homes-acoustic/images/content-016.webp",
+      "alt": "Wafer Holographic Acoustic Module",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/holographic-acoustic-module_1763102343551.webp"
+    },
+    {
+      "file": "images/content-018.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/residential-homes-acoustic/images/content-018.jpg",
+      "alt": "Ultra-Thin Isolator / Vibration Damper",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-05_1750410208516_1761820666865.jpg"
+    },
+    {
+      "file": "images/content-019.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/residential-homes-acoustic/images/content-019.jpg",
+      "alt": "Ceiling Isolator / Vibration Damper",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-07_1750410234650_1761820649968.jpg"
+    },
+    {
+      "file": "images/content-020.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/residential-homes-acoustic/images/content-020.jpg",
+      "alt": "Sound Insulation Damping Pad / Mat",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-10_1750410300602_1761820614721.jpg"
+    },
+    {
+      "file": "images/content-021.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/residential-homes-acoustic/images/content-021.jpg",
+      "alt": "Sound Insulation Damping Sealant / Sealant Applicator Gun",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-01_1750410139071_1761820575923.jpg"
+    },
+    {
+      "file": "images/content-022.webp",
+      "publicPath": "/solutions2/architectural-acoustics/residential-homes-acoustic/images/content-022.webp",
+      "alt": "Acoustic Art / Painting",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/acoustic-head-diagram_1760768131894_1761814488124.webp"
+    }
+  ],
+  "sections": [
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "G50M"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "G50MP"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Damping Sound Insulation Sheet (Single-Sided Aluminum Foil)"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Wafer Holographic Acoustic Module"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Home Silent Pod"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Ultra-Thin Isolator / Vibration Damper"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Ceiling Isolator / Vibration Damper"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Sound Insulation Damping Pad / Mat"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Sound Insulation Damping Sealant / Sealant Applicator Gun"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Acoustic Art / Painting"
+    }
+  ],
+  "relatedProducts": [
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935241075321716739",
+      "upstreamTitle": "G50M",
+      "localSlug": null,
+      "matched": false
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935258128992681986",
+      "upstreamTitle": "G50MP",
+      "localSlug": null,
+      "matched": false
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935306430385266690",
+      "upstreamTitle": "Damping Sound Insulation Sheet (Single-Sided Aluminum Foil)",
+      "localSlug": "sound-insulation",
+      "matched": true
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935319591045865474",
+      "upstreamTitle": "Wafer Holographic Acoustic Module",
+      "localSlug": "holographic-acoustic-module",
+      "matched": true
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935525545079250945",
+      "upstreamTitle": "Ultra-Thin Isolator / Vibration Damper",
+      "localSlug": null,
+      "matched": false
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935526764384395266",
+      "upstreamTitle": "Ceiling Isolator / Vibration Damper",
+      "localSlug": null,
+      "matched": false
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935890331901681665",
+      "upstreamTitle": "Sound Insulation Damping Pad / Mat",
+      "localSlug": "sound-insulation",
+      "matched": true
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935896681222299650",
+      "upstreamTitle": "Sound Insulation Damping Sealant / Sealant Applicator Gun",
+      "localSlug": "sound-insulation",
+      "matched": true
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935912395723300865",
+      "upstreamTitle": "Acoustic Art / Painting",
+      "localSlug": "imagine-acoustic-art",
+      "matched": true
+    }
+  ],
+  "relatedLocalSlugs": [
+    "sound-insulation",
+    "holographic-acoustic-module",
+    "imagine-acoustic-art"
+  ],
+  "scrapedAt": "2026-04-18T15:42:06.675Z"
+}

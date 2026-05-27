@@ -1,0 +1,4338 @@
+{
+  "solutions": [
+    {
+      "mainSolution": "Architectural Acoustics",
+      "subSolution": "Residential Homes",
+      "slug": "residential-homes-acoustic",
+      "group": "architectural-acoustics",
+      "sourceUrl": "https://www.soundbox-sys.com/solution/residential-homes-acoustic",
+      "title": "Residential Homes",
+      "pageTitle": "Solution Details - Soundbox",
+      "description": "SoundBox solution details page",
+      "heroImage": "/solutions2/architectural-acoustics/residential-homes-acoustic/images/hero.webp",
+      "images": [
+        {
+          "file": "images/hero.webp",
+          "publicPath": "/solutions2/architectural-acoustics/residential-homes-acoustic/images/hero.webp",
+          "alt": "1929796317115555841",
+          "role": "hero",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/%E5%AE%B6%E5%B1%85_01_1761882524725.webp"
+        },
+        {
+          "file": "images/content-001.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/residential-homes-acoustic/images/content-001.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E5%AE%B6%E5%B1%85_04_1761882528965.jpg"
+        },
+        {
+          "file": "images/content-002.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/residential-homes-acoustic/images/content-002.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E5%AE%B6%E5%B1%85_07_1761882536930.jpg"
+        },
+        {
+          "file": "images/content-003.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/residential-homes-acoustic/images/content-003.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E5%AE%B6%E5%B1%85_10_1761882545452.jpg"
+        },
+        {
+          "file": "images/content-004.webp",
+          "publicPath": "/solutions2/architectural-acoustics/residential-homes-acoustic/images/content-004.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E5%AE%B6%E5%B1%85_12_1761882552146.webp"
+        },
+        {
+          "file": "images/content-005.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/residential-homes-acoustic/images/content-005.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E5%AE%B6%E5%B1%85_15_1761882562845.jpg"
+        },
+        {
+          "file": "images/content-006.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/residential-homes-acoustic/images/content-006.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E5%AE%B6%E5%B1%85_17_1761882570956.jpg"
+        },
+        {
+          "file": "images/content-007.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/residential-homes-acoustic/images/content-007.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E5%AE%B6%E5%B1%85_21_1761882580752.jpg"
+        },
+        {
+          "file": "images/content-008.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/residential-homes-acoustic/images/content-008.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E5%AE%B6%E5%B1%85_24_1761882586907.jpg"
+        },
+        {
+          "file": "images/content-009.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/residential-homes-acoustic/images/content-009.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E5%AE%B6%E5%B1%85_27_1761882594981.jpg"
+        },
+        {
+          "file": "images/content-010.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/residential-homes-acoustic/images/content-010.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E5%AE%B6%E5%B1%85_32_1761882609273.jpg"
+        },
+        {
+          "file": "images/content-011.webp",
+          "publicPath": "/solutions2/architectural-acoustics/residential-homes-acoustic/images/content-011.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/mceclip0_1761919000368.webp"
+        },
+        {
+          "file": "images/content-012.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/residential-homes-acoustic/images/content-012.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E5%AE%B6%E5%B1%85_35_1761882618790.jpg"
+        },
+        {
+          "file": "images/content-013.webp",
+          "publicPath": "/solutions2/architectural-acoustics/residential-homes-acoustic/images/content-013.webp",
+          "alt": "G50M",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/soundproof-door-thumbnail_1763102160191.webp"
+        },
+        {
+          "file": "images/content-014.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/residential-homes-acoustic/images/content-014.jpg",
+          "alt": "G50MP",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/G50MP_1761813362410.jpg"
+        },
+        {
+          "file": "images/content-015.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/residential-homes-acoustic/images/content-015.jpg",
+          "alt": "Damping Sound Insulation Sheet (Single-Sided Aluminum Foil)",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118_1750410057000_1761818168143.jpg"
+        },
+        {
+          "file": "images/content-016.webp",
+          "publicPath": "/solutions2/architectural-acoustics/residential-homes-acoustic/images/content-016.webp",
+          "alt": "Wafer Holographic Acoustic Module",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/holographic-acoustic-module_1763102343551.webp"
+        },
+        {
+          "file": "images/content-018.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/residential-homes-acoustic/images/content-018.jpg",
+          "alt": "Ultra-Thin Isolator / Vibration Damper",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-05_1750410208516_1761820666865.jpg"
+        },
+        {
+          "file": "images/content-019.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/residential-homes-acoustic/images/content-019.jpg",
+          "alt": "Ceiling Isolator / Vibration Damper",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-07_1750410234650_1761820649968.jpg"
+        },
+        {
+          "file": "images/content-020.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/residential-homes-acoustic/images/content-020.jpg",
+          "alt": "Sound Insulation Damping Pad / Mat",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-10_1750410300602_1761820614721.jpg"
+        },
+        {
+          "file": "images/content-021.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/residential-homes-acoustic/images/content-021.jpg",
+          "alt": "Sound Insulation Damping Sealant / Sealant Applicator Gun",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-01_1750410139071_1761820575923.jpg"
+        },
+        {
+          "file": "images/content-022.webp",
+          "publicPath": "/solutions2/architectural-acoustics/residential-homes-acoustic/images/content-022.webp",
+          "alt": "Acoustic Art / Painting",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/acoustic-head-diagram_1760768131894_1761814488124.webp"
+        }
+      ],
+      "sections": [
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "G50M"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "G50MP"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Damping Sound Insulation Sheet (Single-Sided Aluminum Foil)"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Wafer Holographic Acoustic Module"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Home Silent Pod"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Ultra-Thin Isolator / Vibration Damper"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Ceiling Isolator / Vibration Damper"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Sound Insulation Damping Pad / Mat"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Sound Insulation Damping Sealant / Sealant Applicator Gun"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Acoustic Art / Painting"
+        }
+      ],
+      "relatedProducts": [
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935241075321716739",
+          "upstreamTitle": "G50M",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935258128992681986",
+          "upstreamTitle": "G50MP",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935306430385266690",
+          "upstreamTitle": "Damping Sound Insulation Sheet (Single-Sided Aluminum Foil)",
+          "localSlug": "sound-insulation",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935319591045865474",
+          "upstreamTitle": "Wafer Holographic Acoustic Module",
+          "localSlug": "holographic-acoustic-module",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935525545079250945",
+          "upstreamTitle": "Ultra-Thin Isolator / Vibration Damper",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935526764384395266",
+          "upstreamTitle": "Ceiling Isolator / Vibration Damper",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935890331901681665",
+          "upstreamTitle": "Sound Insulation Damping Pad / Mat",
+          "localSlug": "sound-insulation",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935896681222299650",
+          "upstreamTitle": "Sound Insulation Damping Sealant / Sealant Applicator Gun",
+          "localSlug": "sound-insulation",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935912395723300865",
+          "upstreamTitle": "Acoustic Art / Painting",
+          "localSlug": "imagine-acoustic-art",
+          "matched": true
+        }
+      ],
+      "relatedLocalSlugs": [
+        "sound-insulation",
+        "holographic-acoustic-module",
+        "imagine-acoustic-art"
+      ],
+      "scrapedAt": "2026-04-18T15:42:06.675Z"
+    },
+    {
+      "mainSolution": "Architectural Acoustics",
+      "subSolution": "Commercial Office",
+      "slug": "commercial-office-acoustic",
+      "group": "architectural-acoustics",
+      "sourceUrl": "https://www.soundbox-sys.com/solution/commercial-office-acoustic",
+      "title": "Commercial Office",
+      "pageTitle": "Solution Details - Soundbox",
+      "description": "SoundBox solution details page",
+      "heroImage": "/solutions2/architectural-acoustics/commercial-office-acoustic/images/hero.webp",
+      "images": [
+        {
+          "file": "images/hero.webp",
+          "publicPath": "/solutions2/architectural-acoustics/commercial-office-acoustic/images/hero.webp",
+          "alt": "1929796623811452930",
+          "role": "hero",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/soundproof-office-booth_1761734833012.WEBP"
+        },
+        {
+          "file": "images/content-001.webp",
+          "publicPath": "/solutions2/architectural-acoustics/commercial-office-acoustic/images/content-001.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/office-soundproof-materials_1761734855093.WEBP"
+        },
+        {
+          "file": "images/content-002.webp",
+          "publicPath": "/solutions2/architectural-acoustics/commercial-office-acoustic/images/content-002.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/benefits--office-mute_1761734880357.WEBP"
+        },
+        {
+          "file": "images/content-003.webp",
+          "publicPath": "/solutions2/architectural-acoustics/commercial-office-acoustic/images/content-003.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/soundbox-office-soundproof-materials_1761734914091.WEBP"
+        },
+        {
+          "file": "images/content-004.webp",
+          "publicPath": "/solutions2/architectural-acoustics/commercial-office-acoustic/images/content-004.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/silent-materials-conference-rooms_1761734944404.WEBP"
+        },
+        {
+          "file": "images/content-005.webp",
+          "publicPath": "/solutions2/architectural-acoustics/commercial-office-acoustic/images/content-005.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/office-wall-sound-insulation_1761734967727.WEBP"
+        },
+        {
+          "file": "images/content-006.webp",
+          "publicPath": "/solutions2/architectural-acoustics/commercial-office-acoustic/images/content-006.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/office-soundproof-materials_1761734993893.WEBP"
+        },
+        {
+          "file": "images/content-007.webp",
+          "publicPath": "/solutions2/architectural-acoustics/commercial-office-acoustic/images/content-007.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/soundbox-soundproof-office-booth_1761735015066.WEBP"
+        },
+        {
+          "file": "images/content-008.webp",
+          "publicPath": "/solutions2/architectural-acoustics/commercial-office-acoustic/images/content-008.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/office-soundproof-single-room_1761735050960.WEBP"
+        },
+        {
+          "file": "images/content-009.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/commercial-office-acoustic/images/content-009.jpg",
+          "alt": "G50S",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/G50s_1761813480499.jpg"
+        },
+        {
+          "file": "images/content-010.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/commercial-office-acoustic/images/content-010.jpg",
+          "alt": "G65S",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_115_1750331756761_1761813468504.jpg"
+        },
+        {
+          "file": "images/content-011.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/commercial-office-acoustic/images/content-011.jpg",
+          "alt": "Versailles",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-1_1750331001759_1761814978088.jpg"
+        },
+        {
+          "file": "images/content-012.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/commercial-office-acoustic/images/content-012.jpg",
+          "alt": "Phantom",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_116-3_1750330845074_1761814903547.jpg"
+        },
+        {
+          "file": "images/content-013.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/commercial-office-acoustic/images/content-013.jpg",
+          "alt": "Geometry",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_116-2_1750330809838_1761814780519.jpg"
+        },
+        {
+          "file": "images/content-014.webp",
+          "publicPath": "/solutions2/architectural-acoustics/commercial-office-acoustic/images/content-014.webp",
+          "alt": "ML",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/ML_1762136820111.webp"
+        },
+        {
+          "file": "images/content-015.webp",
+          "publicPath": "/solutions2/architectural-acoustics/commercial-office-acoustic/images/content-015.webp",
+          "alt": "L",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/L_1762136969429.webp"
+        },
+        {
+          "file": "images/content-016.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/commercial-office-acoustic/images/content-016.jpg",
+          "alt": "Matrix Acoustic Baffle",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_116-1_1750382285973_1761813578061.jpg"
+        }
+      ],
+      "sections": [
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "G50S"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "G65S"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Versailles"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Phantom"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Geometry"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Matrix Acoustic Baffle"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Acoustic Art / Painting"
+        }
+      ],
+      "relatedProducts": [
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935268608981319682",
+          "upstreamTitle": "G50S",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935283565896179714",
+          "upstreamTitle": "G65S",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935529579085340673",
+          "upstreamTitle": "Versailles",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935533640375377922",
+          "upstreamTitle": "Phantom",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935537016219672578",
+          "upstreamTitle": "Geometry",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935871158769213442",
+          "upstreamTitle": "Matrix Acoustic Baffle",
+          "localSlug": "acoustic-baffles",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935912395723300865",
+          "upstreamTitle": "Acoustic Art / Painting",
+          "localSlug": "imagine-acoustic-art",
+          "matched": true
+        }
+      ],
+      "relatedLocalSlugs": [
+        "acoustic-baffles",
+        "imagine-acoustic-art"
+      ],
+      "scrapedAt": "2026-04-18T15:42:34.188Z"
+    },
+    {
+      "mainSolution": "Architectural Acoustics",
+      "subSolution": "Educational Spaces",
+      "slug": "educational-spaces-acoustic",
+      "group": "architectural-acoustics",
+      "sourceUrl": "https://www.soundbox-sys.com/solution/educational-spaces-acoustic",
+      "title": "Educational Spaces",
+      "pageTitle": "Solution Details - Soundbox",
+      "description": "SoundBox solution details page",
+      "heroImage": "/solutions2/architectural-acoustics/educational-spaces-acoustic/images/hero.webp",
+      "images": [
+        {
+          "file": "images/hero.webp",
+          "publicPath": "/solutions2/architectural-acoustics/educational-spaces-acoustic/images/hero.webp",
+          "alt": "1929796565791645697",
+          "role": "hero",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/soundbox-acoustic-classroom_1761735749446.webp"
+        },
+        {
+          "file": "images/content-001.webp",
+          "publicPath": "/solutions2/architectural-acoustics/educational-spaces-acoustic/images/content-001.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/soundbox-classroom-acoustic-solution_1761735763737.webp"
+        },
+        {
+          "file": "images/content-002.webp",
+          "publicPath": "/solutions2/architectural-acoustics/educational-spaces-acoustic/images/content-002.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/classroom-noise-reduction-effects-comparison_1761735784905.webp"
+        },
+        {
+          "file": "images/content-003.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/educational-spaces-acoustic/images/content-003.jpg",
+          "alt": "Fabric acoustic panel",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_116_1750332601017_1761813919851.jpg"
+        },
+        {
+          "file": "images/content-004.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/educational-spaces-acoustic/images/content-004.jpg",
+          "alt": "Broadband Absorption Wall",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-2_1750331165333_1761815063883.jpg"
+        },
+        {
+          "file": "images/content-005.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/educational-spaces-acoustic/images/content-005.jpg",
+          "alt": "G50S",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/G50s_1761813480499.jpg"
+        },
+        {
+          "file": "images/content-006.webp",
+          "publicPath": "/solutions2/architectural-acoustics/educational-spaces-acoustic/images/content-006.webp",
+          "alt": "SM",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/SM_1762136504517.webp"
+        },
+        {
+          "file": "images/content-007.webp",
+          "publicPath": "/solutions2/architectural-acoustics/educational-spaces-acoustic/images/content-007.webp",
+          "alt": "ML",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/ML_1762136820111.webp"
+        },
+        {
+          "file": "images/content-008.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/educational-spaces-acoustic/images/content-008.jpg",
+          "alt": "Cloud Diffuser",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-5_1750400447036_1761815849136.jpg"
+        },
+        {
+          "file": "images/content-009.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/educational-spaces-acoustic/images/content-009.jpg",
+          "alt": "Customized shape fabric acoustic panel",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/MT30R_1761813952701.jpg"
+        },
+        {
+          "file": "images/content-010.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/educational-spaces-acoustic/images/content-010.jpg",
+          "alt": "Matrix Acoustic Baffle",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_116-1_1750382285973_1761813578061.jpg"
+        },
+        {
+          "file": "images/content-011.webp",
+          "publicPath": "/solutions2/architectural-acoustics/educational-spaces-acoustic/images/content-011.webp",
+          "alt": "Carbon Plastic Slotted Acoustic Panel",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/carbon-plastic-slotted-sound-absorbing-board_1762931262040.webp"
+        }
+      ],
+      "sections": [
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Fabric acoustic panel"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Broadband Absorption Wall"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "G50S"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Cloud Diffuser"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Customized shape fabric acoustic panel"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Matrix Acoustic Baffle"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Carbon Plastic Slotted Acoustic Panel"
+        }
+      ],
+      "relatedProducts": [
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935261853266198529",
+          "upstreamTitle": "Fabric acoustic panel",
+          "localSlug": "fabric-acoustic-panels",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935262891088003073",
+          "upstreamTitle": "Broadband Absorption Wall",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935268608981319682",
+          "upstreamTitle": "G50S",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935586397118369793",
+          "upstreamTitle": "Cloud Diffuser",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935865613228236802",
+          "upstreamTitle": "Customized shape fabric acoustic panel",
+          "localSlug": "fabric-acoustic-panels",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935871158769213442",
+          "upstreamTitle": "Matrix Acoustic Baffle",
+          "localSlug": "acoustic-baffles",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935879920007569409",
+          "upstreamTitle": "Carbon Plastic Slotted Acoustic Panel",
+          "localSlug": "fabric-acoustic-panels",
+          "matched": true
+        }
+      ],
+      "relatedLocalSlugs": [
+        "fabric-acoustic-panels",
+        "acoustic-baffles"
+      ],
+      "scrapedAt": "2026-04-18T15:42:57.975Z"
+    },
+    {
+      "mainSolution": "Architectural Acoustics",
+      "subSolution": "Hotels and Hospitality",
+      "slug": "hotels-and-hospitality-acoustic",
+      "group": "architectural-acoustics",
+      "sourceUrl": "https://www.soundbox-sys.com/solution/hotels-and-hospitality-acoustic",
+      "title": "Hotels and Hospitality",
+      "pageTitle": "Solution Details - Soundbox",
+      "description": "SoundBox solution details page",
+      "heroImage": "/solutions2/architectural-acoustics/hotels-and-hospitality-acoustic/images/hero.webp",
+      "images": [
+        {
+          "file": "images/hero.webp",
+          "publicPath": "/solutions2/architectural-acoustics/hotels-and-hospitality-acoustic/images/hero.webp",
+          "alt": "1929796370601320449",
+          "role": "hero",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/hotel-lobby-noise-reduction_1761735906792.webp"
+        },
+        {
+          "file": "images/content-001.webp",
+          "publicPath": "/solutions2/architectural-acoustics/hotels-and-hospitality-acoustic/images/content-001.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/impact-of-noise-on-residential-areas_1761735928857.WEBP"
+        },
+        {
+          "file": "images/content-002.webp",
+          "publicPath": "/solutions2/architectural-acoustics/hotels-and-hospitality-acoustic/images/content-002.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/importance-of-hotel-soundproofing_1761735954493.WEBP"
+        },
+        {
+          "file": "images/content-003.webp",
+          "publicPath": "/solutions2/architectural-acoustics/hotels-and-hospitality-acoustic/images/content-003.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/hotel-soundproof-door_1761735988321.WEBP"
+        },
+        {
+          "file": "images/content-004.webp",
+          "publicPath": "/solutions2/architectural-acoustics/hotels-and-hospitality-acoustic/images/content-004.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/wall-sound-insulation-structure_1761736011317.WEBP"
+        },
+        {
+          "file": "images/content-005.webp",
+          "publicPath": "/solutions2/architectural-acoustics/hotels-and-hospitality-acoustic/images/content-005.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/hotel-floor-sound-insulation_1761736032499.WEBP"
+        },
+        {
+          "file": "images/content-006.webp",
+          "publicPath": "/solutions2/architectural-acoustics/hotels-and-hospitality-acoustic/images/content-006.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/ceiling-sound-insulation-structure_1761736049645.WEBP"
+        },
+        {
+          "file": "images/content-007.webp",
+          "publicPath": "/solutions2/architectural-acoustics/hotels-and-hospitality-acoustic/images/content-007.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/pipeline-noise-reduction_1761736069770.WEBP"
+        },
+        {
+          "file": "images/content-008.webp",
+          "publicPath": "/solutions2/architectural-acoustics/hotels-and-hospitality-acoustic/images/content-008.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/hotel-ventilation-fan-noise-reduction_1761736091928.WEBP"
+        },
+        {
+          "file": "images/content-009.webp",
+          "publicPath": "/solutions2/architectural-acoustics/hotels-and-hospitality-acoustic/images/content-009.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/hotel-air-conditioning-noise-reduction_1761736109757.WEBP"
+        },
+        {
+          "file": "images/content-010.webp",
+          "publicPath": "/solutions2/architectural-acoustics/hotels-and-hospitality-acoustic/images/content-010.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/hotel-silent-cabin_1761736132845.WEBP"
+        },
+        {
+          "file": "images/content-011.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/hotels-and-hospitality-acoustic/images/content-011.jpg",
+          "alt": "Engineering Soundproof Door",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/G55j_1761813659515.jpg"
+        },
+        {
+          "file": "images/content-012.webp",
+          "publicPath": "/solutions2/architectural-acoustics/hotels-and-hospitality-acoustic/images/content-012.webp",
+          "alt": "Byer Acoustic Cotton",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/bayer-acoustic-cotton_1763103268950.webp"
+        },
+        {
+          "file": "images/content-013.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/hotels-and-hospitality-acoustic/images/content-013.jpg",
+          "alt": "Damping Sound Insulation Sheet (Single-Sided Aluminum Foil)",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118_1750410057000_1761818168143.jpg"
+        },
+        {
+          "file": "images/content-014.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/hotels-and-hospitality-acoustic/images/content-014.jpg",
+          "alt": "Home Silent Pod",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/%E5%8D%95%E4%BA%BA%E5%B0%96%E9%A1%B6_1761813190439.jpg"
+        },
+        {
+          "file": "images/content-015.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/hotels-and-hospitality-acoustic/images/content-015.jpg",
+          "alt": "Floor Damping Sound-Insulating Coating",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/________1750409818275_1761816508089.jpg"
+        },
+        {
+          "file": "images/content-016.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/hotels-and-hospitality-acoustic/images/content-016.jpg",
+          "alt": "Damping Sound-Insulating Flooring (Wood Grain)",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118_1750410539853_1761817150811.jpg"
+        },
+        {
+          "file": "images/content-018.png",
+          "publicPath": "/solutions2/architectural-acoustics/hotels-and-hospitality-acoustic/images/content-018.png",
+          "alt": "Low-Noise Exhaust Fan",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20250621131214_1750482744415_1761814553132.png"
+        }
+      ],
+      "sections": [
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Engineering Soundproof Door"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Byer Acoustic Cotton"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Damping Sound Insulation Sheet (Single-Sided Aluminum Foil)"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Home Silent Pod"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Floor Damping Sound-Insulating Coating"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Damping Sound-Insulating Flooring (Wood Grain)"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Acoustic Art / Painting"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Low-Noise Exhaust Fan"
+        }
+      ],
+      "relatedProducts": [
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935287557632073730",
+          "upstreamTitle": "Engineering Soundproof Door",
+          "localSlug": "soundproof-door",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935289980996067330",
+          "upstreamTitle": "Byer Acoustic Cotton",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935306430385266690",
+          "upstreamTitle": "Damping Sound Insulation Sheet (Single-Sided Aluminum Foil)",
+          "localSlug": "sound-insulation",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935615590519332865",
+          "upstreamTitle": "Floor Damping Sound-Insulating Coating",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935660471778336769",
+          "upstreamTitle": "Damping Sound-Insulating Flooring (Wood Grain)",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935912395723300865",
+          "upstreamTitle": "Acoustic Art / Painting",
+          "localSlug": "imagine-acoustic-art",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1936263374464589825",
+          "upstreamTitle": "Low-Noise Exhaust Fan",
+          "localSlug": "silent-exhaust-fans",
+          "matched": true
+        }
+      ],
+      "relatedLocalSlugs": [
+        "soundproof-door",
+        "sound-insulation",
+        "imagine-acoustic-art",
+        "silent-exhaust-fans"
+      ],
+      "scrapedAt": "2026-04-18T15:43:23.220Z"
+    },
+    {
+      "mainSolution": "Architectural Acoustics",
+      "subSolution": "Venue spaces acoustic",
+      "slug": "venue-spaces-acoustic",
+      "group": "architectural-acoustics",
+      "sourceUrl": "https://www.soundbox-sys.com/solution/venue-spaces-acoustic",
+      "title": "Venue spaces acoustic",
+      "pageTitle": "Solution Details - Soundbox",
+      "description": "SoundBox solution details page",
+      "heroImage": "/solutions2/architectural-acoustics/venue-spaces-acoustic/images/hero.webp",
+      "images": [
+        {
+          "file": "images/hero.webp",
+          "publicPath": "/solutions2/architectural-acoustics/venue-spaces-acoustic/images/hero.webp",
+          "alt": "1929796467720429570",
+          "role": "hero",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/soundbox-venue-noise-reduction_1761735346921.WEBP"
+        },
+        {
+          "file": "images/content-001.webp",
+          "publicPath": "/solutions2/architectural-acoustics/venue-spaces-acoustic/images/content-001.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/sound-absorbing-ceiling-sports-venues_1761735367665.webp"
+        },
+        {
+          "file": "images/content-002.webp",
+          "publicPath": "/solutions2/architectural-acoustics/venue-spaces-acoustic/images/content-002.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/venue-space-sound-absorption_1761735392353.webp"
+        },
+        {
+          "file": "images/content-003.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/venue-spaces-acoustic/images/content-003.jpg",
+          "alt": "Array Acoustic Baffle",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-1_1750332697358_1761813729340.jpg"
+        },
+        {
+          "file": "images/content-004.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/venue-spaces-acoustic/images/content-004.jpg",
+          "alt": "Array Mesh Acoustic Baffle",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_116-2_1750332681428_1761813620001.jpg"
+        },
+        {
+          "file": "images/content-005.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/venue-spaces-acoustic/images/content-005.jpg",
+          "alt": "Array Acoustic Baffle",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_116_1750332674056_1761813747555.jpg"
+        },
+        {
+          "file": "images/content-006.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/venue-spaces-acoustic/images/content-006.jpg",
+          "alt": "Matrix Acoustic Baffle",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118_1750332636639_1761813590850.jpg"
+        },
+        {
+          "file": "images/content-007.webp",
+          "publicPath": "/solutions2/architectural-acoustics/venue-spaces-acoustic/images/content-007.webp",
+          "alt": "Hacker Acoustic Panel",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/ck1-hacker-sound-absorbing-board_1762920079852.webp"
+        },
+        {
+          "file": "images/content-008.webp",
+          "publicPath": "/solutions2/architectural-acoustics/venue-spaces-acoustic/images/content-008.webp",
+          "alt": "Honeycomb Acoustic Panel",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/ck3-honeycomb-acoustic-panel_1762930353634.webp"
+        },
+        {
+          "file": "images/content-009.webp",
+          "publicPath": "/solutions2/architectural-acoustics/venue-spaces-acoustic/images/content-009.webp",
+          "alt": "Broadband Acoustic Panel",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/ck-5-broadband-sound-absorbing-panel_1762930668458.webp"
+        },
+        {
+          "file": "images/content-010.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/venue-spaces-acoustic/images/content-010.jpg",
+          "alt": "Energy Acoustic Reflection Panel",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118_1750381681378_1761814183166.jpg"
+        },
+        {
+          "file": "images/content-011.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/venue-spaces-acoustic/images/content-011.jpg",
+          "alt": "Matrix Acoustic Baffle",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_116-1_1750382285973_1761813578061.jpg"
+        },
+        {
+          "file": "images/content-012.webp",
+          "publicPath": "/solutions2/architectural-acoustics/venue-spaces-acoustic/images/content-012.webp",
+          "alt": "Carbon Plastic Slotted Acoustic Panel",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/carbon-plastic-slotted-sound-absorbing-board_1762931262040.webp"
+        }
+      ],
+      "sections": [
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Array Acoustic Baffle"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Array Mesh Acoustic Baffle"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Matrix Acoustic Baffle"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Hacker Acoustic Panel"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Honeycomb Acoustic Panel"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Broadband Acoustic Panel"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Energy Acoustic Reflection Panel"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Carbon Plastic Slotted Acoustic Panel"
+        }
+      ],
+      "relatedProducts": [
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935246704853630977",
+          "upstreamTitle": "Array Acoustic Baffle",
+          "localSlug": "acoustic-baffles",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935250233056018434",
+          "upstreamTitle": "Array Mesh Acoustic Baffle",
+          "localSlug": "acoustic-baffles",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935253494081241090",
+          "upstreamTitle": "Array Acoustic Baffle",
+          "localSlug": "acoustic-baffles",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935256128322256898",
+          "upstreamTitle": "Matrix Acoustic Baffle",
+          "localSlug": "acoustic-baffles",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935264788498857986",
+          "upstreamTitle": "Hacker Acoustic Panel",
+          "localSlug": "fabric-acoustic-panels",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935267248600760321",
+          "upstreamTitle": "Honeycomb Acoustic Panel",
+          "localSlug": "fabric-acoustic-panels",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935269704655159297",
+          "upstreamTitle": "Broadband Acoustic Panel",
+          "localSlug": "fabric-acoustic-panels",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935868085657198594",
+          "upstreamTitle": "Energy Acoustic Reflection Panel",
+          "localSlug": "fabric-acoustic-panels",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935871158769213442",
+          "upstreamTitle": "Matrix Acoustic Baffle",
+          "localSlug": "acoustic-baffles",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935879920007569409",
+          "upstreamTitle": "Carbon Plastic Slotted Acoustic Panel",
+          "localSlug": "fabric-acoustic-panels",
+          "matched": true
+        }
+      ],
+      "relatedLocalSlugs": [
+        "acoustic-baffles",
+        "fabric-acoustic-panels"
+      ],
+      "scrapedAt": "2026-04-18T15:43:58.985Z"
+    },
+    {
+      "mainSolution": "Architectural Acoustics",
+      "subSolution": "Multi-functional halls acoustic",
+      "slug": "multi-functional-halls-acoustic",
+      "group": "architectural-acoustics",
+      "sourceUrl": "https://www.soundbox-sys.com/solution/multi-functional-halls-acoustic",
+      "title": "Multi-functional halls acoustic",
+      "pageTitle": "Solution Details - Soundbox",
+      "description": "SoundBox solution details page",
+      "heroImage": "/solutions2/architectural-acoustics/multi-functional-halls-acoustic/images/hero.webp",
+      "images": [
+        {
+          "file": "images/hero.webp",
+          "publicPath": "/solutions2/architectural-acoustics/multi-functional-halls-acoustic/images/hero.webp",
+          "alt": "1937463252964319233",
+          "role": "hero",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/multi-functional-hall-noise-reduction_1761735557124.WEBP"
+        },
+        {
+          "file": "images/content-001.webp",
+          "publicPath": "/solutions2/architectural-acoustics/multi-functional-halls-acoustic/images/content-001.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/audience-listening-report_1761735580555.WEBP"
+        },
+        {
+          "file": "images/content-002.webp",
+          "publicPath": "/solutions2/architectural-acoustics/multi-functional-halls-acoustic/images/content-002.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/impact-poor-sound-effects-lecture-hall_1761735597528.WEBP"
+        },
+        {
+          "file": "images/content-003.webp",
+          "publicPath": "/solutions2/architectural-acoustics/multi-functional-halls-acoustic/images/content-003.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/functional-hall-noise-solution_1761735613834.WEBP"
+        },
+        {
+          "file": "images/content-004.webp",
+          "publicPath": "/solutions2/architectural-acoustics/multi-functional-halls-acoustic/images/content-004.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/staircase-noise-reduction_1761735633525.WEBP"
+        },
+        {
+          "file": "images/content-005.webp",
+          "publicPath": "/solutions2/architectural-acoustics/multi-functional-halls-acoustic/images/content-005.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/indoor-wall-ceiling-noise-reduction_1761735657278.WEBP"
+        },
+        {
+          "file": "images/content-006.webp",
+          "publicPath": "/solutions2/architectural-acoustics/multi-functional-halls-acoustic/images/content-006.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/indoor-ceiling-sound-absorbing-material_1761735683110.WEBP"
+        },
+        {
+          "file": "images/content-007.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/multi-functional-halls-acoustic/images/content-007.jpg",
+          "alt": "Array Acoustic Baffle",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-1_1750332697358_1761813729340.jpg"
+        },
+        {
+          "file": "images/content-008.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/multi-functional-halls-acoustic/images/content-008.jpg",
+          "alt": "Matrix Acoustic Baffle",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118_1750332636639_1761813590850.jpg"
+        },
+        {
+          "file": "images/content-009.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/multi-functional-halls-acoustic/images/content-009.jpg",
+          "alt": "Fabric acoustic panel",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_116-1_1750332577219_1761813908141.jpg"
+        },
+        {
+          "file": "images/content-010.webp",
+          "publicPath": "/solutions2/architectural-acoustics/multi-functional-halls-acoustic/images/content-010.webp",
+          "alt": "Hacker Acoustic Panel",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/ck1-hacker-sound-absorbing-board_1762920079852.webp"
+        },
+        {
+          "file": "images/content-011.webp",
+          "publicPath": "/solutions2/architectural-acoustics/multi-functional-halls-acoustic/images/content-011.webp",
+          "alt": "Matrix Acoustic Panel",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/ck2-matrix-sound-absorbing-panel_1762930173694.webp"
+        },
+        {
+          "file": "images/content-012.webp",
+          "publicPath": "/solutions2/architectural-acoustics/multi-functional-halls-acoustic/images/content-012.webp",
+          "alt": "Honeycomb Acoustic Panel",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/ck3-honeycomb-acoustic-panel_1762930353634.webp"
+        },
+        {
+          "file": "images/content-013.webp",
+          "publicPath": "/solutions2/architectural-acoustics/multi-functional-halls-acoustic/images/content-013.webp",
+          "alt": "Broadband Acoustic Panel",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/ck-5-broadband-sound-absorbing-panel_1762930668458.webp"
+        },
+        {
+          "file": "images/content-014.webp",
+          "publicPath": "/solutions2/architectural-acoustics/multi-functional-halls-acoustic/images/content-014.webp",
+          "alt": "Slotted Acoustic Panel",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/carbon-calcium-slotted-sound-absorbing-board_1762931128280.webp"
+        },
+        {
+          "file": "images/content-015.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/multi-functional-halls-acoustic/images/content-015.jpg",
+          "alt": "Variable Sound Absorption and Diffusion Unit",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_116-2_1750332200621_1761814291266.jpg"
+        },
+        {
+          "file": "images/content-016.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/multi-functional-halls-acoustic/images/content-016.jpg",
+          "alt": "Variable Sound Absorption and Diffusion Unit",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_116-1_1750332178380_1761814278236.jpg"
+        },
+        {
+          "file": "images/content-018.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/multi-functional-halls-acoustic/images/content-018.jpg",
+          "alt": "Matrix Acoustic Baffle",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_116-1_1750382285973_1761813578061.jpg"
+        },
+        {
+          "file": "images/content-019.webp",
+          "publicPath": "/solutions2/architectural-acoustics/multi-functional-halls-acoustic/images/content-019.webp",
+          "alt": "Carbon Plastic Slotted Acoustic Panel",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/carbon-plastic-slotted-sound-absorbing-board_1762931262040.webp"
+        }
+      ],
+      "sections": [
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Array Acoustic Baffle"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Matrix Acoustic Baffle"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Fabric acoustic panel"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Hacker Acoustic Panel"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Matrix Acoustic Panel"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Honeycomb Acoustic Panel"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Broadband Acoustic Panel"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Slotted Acoustic Panel"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Variable Sound Absorption and Diffusion Unit"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Solid Wood Diffusion Unit"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Carbon Plastic Slotted Acoustic Panel"
+        }
+      ],
+      "relatedProducts": [
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935246704853630977",
+          "upstreamTitle": "Array Acoustic Baffle",
+          "localSlug": "acoustic-baffles",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935256128322256898",
+          "upstreamTitle": "Matrix Acoustic Baffle",
+          "localSlug": "acoustic-baffles",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935262649860997121",
+          "upstreamTitle": "Fabric acoustic panel",
+          "localSlug": "fabric-acoustic-panels",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935264788498857986",
+          "upstreamTitle": "Hacker Acoustic Panel",
+          "localSlug": "fabric-acoustic-panels",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935265681776558082",
+          "upstreamTitle": "Matrix Acoustic Panel",
+          "localSlug": "fabric-acoustic-panels",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935269704655159297",
+          "upstreamTitle": "Broadband Acoustic Panel",
+          "localSlug": "fabric-acoustic-panels",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935271239728480257",
+          "upstreamTitle": "Slotted Acoustic Panel",
+          "localSlug": "fabric-acoustic-panels",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935283966599012353",
+          "upstreamTitle": "Variable Sound Absorption and Diffusion Unit",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935285057185161217",
+          "upstreamTitle": "Variable Sound Absorption and Diffusion Unit",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935668950761005058",
+          "upstreamTitle": "Solid Wood Diffusion Unit",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935871158769213442",
+          "upstreamTitle": "Matrix Acoustic Baffle",
+          "localSlug": "acoustic-baffles",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935879920007569409",
+          "upstreamTitle": "Carbon Plastic Slotted Acoustic Panel",
+          "localSlug": "fabric-acoustic-panels",
+          "matched": true
+        }
+      ],
+      "relatedLocalSlugs": [
+        "acoustic-baffles",
+        "fabric-acoustic-panels"
+      ],
+      "scrapedAt": "2026-04-18T15:44:28.722Z"
+    },
+    {
+      "mainSolution": "Architectural Acoustics",
+      "subSolution": "Concert halls acoustic",
+      "slug": "concert-halls-acoustic",
+      "group": "architectural-acoustics",
+      "sourceUrl": "https://www.soundbox-sys.com/solution/concert-halls-acoustic",
+      "title": "Concert halls acoustic",
+      "pageTitle": "Solution Details - Soundbox",
+      "description": "SoundBox solution details page",
+      "heroImage": "/solutions2/architectural-acoustics/concert-halls-acoustic/images/hero.webp",
+      "images": [
+        {
+          "file": "images/hero.webp",
+          "publicPath": "/solutions2/architectural-acoustics/concert-halls-acoustic/images/hero.webp",
+          "alt": "1929796521600458753",
+          "role": "hero",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/concert-hall-acoustic-scheme_1761736296431.WEBP"
+        },
+        {
+          "file": "images/content-001.webp",
+          "publicPath": "/solutions2/architectural-acoustics/concert-halls-acoustic/images/content-001.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/music-hall-noise-reduction_1761736312611.WEBP"
+        },
+        {
+          "file": "images/content-002.webp",
+          "publicPath": "/solutions2/architectural-acoustics/concert-halls-acoustic/images/content-002.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/piano-room-sound-absorbing-material_1761736336276.WEBP"
+        },
+        {
+          "file": "images/content-003.webp",
+          "publicPath": "/solutions2/architectural-acoustics/concert-halls-acoustic/images/content-003.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/piano-room-noise-reduction_1761736352744.WEBP"
+        },
+        {
+          "file": "images/content-004.webp",
+          "publicPath": "/solutions2/architectural-acoustics/concert-halls-acoustic/images/content-004.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/music-room-noise-reduction_1761736369517.WEBP"
+        },
+        {
+          "file": "images/content-005.webp",
+          "publicPath": "/solutions2/architectural-acoustics/concert-halls-acoustic/images/content-005.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/piano-room-sound-absorbing-decoration_1761736385852.WEBP"
+        },
+        {
+          "file": "images/content-006.webp",
+          "publicPath": "/solutions2/architectural-acoustics/concert-halls-acoustic/images/content-006.webp",
+          "alt": "Hacker Acoustic Panel",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/ck1-hacker-sound-absorbing-board_1762920079852.webp"
+        },
+        {
+          "file": "images/content-007.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/concert-halls-acoustic/images/content-007.jpg",
+          "alt": "Combined Diffusion Unit",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-6_1750332207499_1761814306242.jpg"
+        },
+        {
+          "file": "images/content-008.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/concert-halls-acoustic/images/content-008.jpg",
+          "alt": "Variable Sound Absorption and Diffusion Unit",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_116-1_1750332178380_1761814278236.jpg"
+        },
+        {
+          "file": "images/content-009.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/concert-halls-acoustic/images/content-009.jpg",
+          "alt": "Mobile Acoustic Baffle",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/AQ150W_1761874738511.jpg"
+        },
+        {
+          "file": "images/content-010.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/concert-halls-acoustic/images/content-010.jpg",
+          "alt": "Wave Acoustic Body",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-1_1750403107185_1761815596304.jpg"
+        },
+        {
+          "file": "images/content-011.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/concert-halls-acoustic/images/content-011.jpg",
+          "alt": "Mobile Reflection Panel",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_116_1750333543506_1761814265956.jpg"
+        },
+        {
+          "file": "images/content-012.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/concert-halls-acoustic/images/content-012.jpg",
+          "alt": "Musical Acoustic Shell",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-2_1750334056859_1761814249769.jpg"
+        },
+        {
+          "file": "images/content-013.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/concert-halls-acoustic/images/content-013.jpg",
+          "alt": "Solid Wood Diffusion Unit",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-5_1750334274507_1761814236407.jpg"
+        },
+        {
+          "file": "images/content-014.webp",
+          "publicPath": "/solutions2/architectural-acoustics/concert-halls-acoustic/images/content-014.webp",
+          "alt": "Carbon Plastic Slotted Acoustic Panel",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/carbon-plastic-slotted-sound-absorbing-board_1762931262040.webp"
+        }
+      ],
+      "sections": [
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Hacker Acoustic Panel"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Combined Diffusion Unit"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Variable Sound Absorption and Diffusion Unit"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Mobile Acoustic Baffle"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Wave Acoustic Body"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Mobile Reflection Panel"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Musical Acoustic Shell"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Solid Wood Diffusion Unit"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Carbon Plastic Slotted Acoustic Panel"
+        }
+      ],
+      "relatedProducts": [
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935264788498857986",
+          "upstreamTitle": "Hacker Acoustic Panel",
+          "localSlug": "fabric-acoustic-panels",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935283135518646273",
+          "upstreamTitle": "Combined Diffusion Unit",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935285057185161217",
+          "upstreamTitle": "Variable Sound Absorption and Diffusion Unit",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935545893636055042",
+          "upstreamTitle": "Mobile Acoustic Baffle",
+          "localSlug": "acoustic-baffles",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935595061728350209",
+          "upstreamTitle": "Wave Acoustic Body",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935666289705803778",
+          "upstreamTitle": "Mobile Reflection Panel",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935667646949023745",
+          "upstreamTitle": "Musical Acoustic Shell",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935668950761005058",
+          "upstreamTitle": "Solid Wood Diffusion Unit",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935879920007569409",
+          "upstreamTitle": "Carbon Plastic Slotted Acoustic Panel",
+          "localSlug": "fabric-acoustic-panels",
+          "matched": true
+        }
+      ],
+      "relatedLocalSlugs": [
+        "fabric-acoustic-panels",
+        "acoustic-baffles"
+      ],
+      "scrapedAt": "2026-04-18T15:44:54.706Z"
+    },
+    {
+      "mainSolution": "Architectural Acoustics",
+      "subSolution": "Entertainment spaces acoustic",
+      "slug": "entertainment-spaces-acoustic",
+      "group": "architectural-acoustics",
+      "sourceUrl": "https://www.soundbox-sys.com/solution/entertainment-spaces-acoustic",
+      "title": "Entertainment spaces acoustic",
+      "pageTitle": "Solution Details - Soundbox",
+      "description": "SoundBox solution details page",
+      "heroImage": "/solutions2/architectural-acoustics/entertainment-spaces-acoustic/images/hero.webp",
+      "images": [
+        {
+          "file": "images/hero.webp",
+          "publicPath": "/solutions2/architectural-acoustics/entertainment-spaces-acoustic/images/hero.webp",
+          "alt": "1929796666182311937",
+          "role": "hero",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/acoustic-solutions-entertainment-venues_1761736436073.webp"
+        },
+        {
+          "file": "images/content-001.webp",
+          "publicPath": "/solutions2/architectural-acoustics/entertainment-spaces-acoustic/images/content-001.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/entertainment-soundproofing_1761736451102.WEBP"
+        },
+        {
+          "file": "images/content-002.webp",
+          "publicPath": "/solutions2/architectural-acoustics/entertainment-spaces-acoustic/images/content-002.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/entertainment-venues-noise-impact_1761736466805.WEBP"
+        },
+        {
+          "file": "images/content-003.webp",
+          "publicPath": "/solutions2/architectural-acoustics/entertainment-spaces-acoustic/images/content-003.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/entertainment-noise-solution_1761736481374.WEBP"
+        },
+        {
+          "file": "images/content-004.webp",
+          "publicPath": "/solutions2/architectural-acoustics/entertainment-spaces-acoustic/images/content-004.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/soundbox-nightclub-noisereduction_1761736494609.WEBP"
+        },
+        {
+          "file": "images/content-005.webp",
+          "publicPath": "/solutions2/architectural-acoustics/entertainment-spaces-acoustic/images/content-005.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/ktv-room-noise-reduction_1761736515177.WEBP"
+        },
+        {
+          "file": "images/content-006.webp",
+          "publicPath": "/solutions2/architectural-acoustics/entertainment-spaces-acoustic/images/content-006.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/nightclub-soundproofing-noise-reduction_1761736559730.WEBP"
+        },
+        {
+          "file": "images/content-007.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/entertainment-spaces-acoustic/images/content-007.jpg",
+          "alt": "Array Acoustic Baffle",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-1_1750332697358_1761813729340.jpg"
+        },
+        {
+          "file": "images/content-008.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/entertainment-spaces-acoustic/images/content-008.jpg",
+          "alt": "Array Mesh Acoustic Baffle",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_116-2_1750332681428_1761813620001.jpg"
+        },
+        {
+          "file": "images/content-009.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/entertainment-spaces-acoustic/images/content-009.jpg",
+          "alt": "Array Acoustic Baffle",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_116_1750332674056_1761813747555.jpg"
+        },
+        {
+          "file": "images/content-010.webp",
+          "publicPath": "/solutions2/architectural-acoustics/entertainment-spaces-acoustic/images/content-010.webp",
+          "alt": "Hacker Acoustic Panel",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/ck1-hacker-sound-absorbing-board_1762920079852.webp"
+        },
+        {
+          "file": "images/content-011.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/entertainment-spaces-acoustic/images/content-011.jpg",
+          "alt": "Environmental Damping Sound Insulation Panel",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/G18_1750409941805_1761817512799.jpg"
+        },
+        {
+          "file": "images/content-012.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/entertainment-spaces-acoustic/images/content-012.jpg",
+          "alt": "Metal Damping Sound Insulation Panel",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/G20J_1750409967599_1761817467438.jpg"
+        },
+        {
+          "file": "images/content-013.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/entertainment-spaces-acoustic/images/content-013.jpg",
+          "alt": "Composite Vibration Damping and Sound Insulation Panel",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/G22_1750409975596_1761817440681.jpg"
+        },
+        {
+          "file": "images/content-014.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/entertainment-spaces-acoustic/images/content-014.jpg",
+          "alt": "Composite Damping Sound Insulation Panel",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/OEM13_1750409984168_1761817412892.jpg"
+        },
+        {
+          "file": "images/content-015.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/entertainment-spaces-acoustic/images/content-015.jpg",
+          "alt": "Composite Damping Sound Insulation Panel",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/OEM15_1750409997521_1761817317872.jpg"
+        },
+        {
+          "file": "images/content-016.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/entertainment-spaces-acoustic/images/content-016.jpg",
+          "alt": "Engineering Soundproof Door (Entertainment)",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_115_1750331628892_1761813506069.jpg"
+        },
+        {
+          "file": "images/content-018.webp",
+          "publicPath": "/solutions2/architectural-acoustics/entertainment-spaces-acoustic/images/content-018.webp",
+          "alt": "SM",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/SM_1762136504517.webp"
+        },
+        {
+          "file": "images/content-019.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/entertainment-spaces-acoustic/images/content-019.jpg",
+          "alt": "Magic block acoustic panel",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118_1750380550068_1761813896699.jpg"
+        },
+        {
+          "file": "images/content-020.webp",
+          "publicPath": "/solutions2/architectural-acoustics/entertainment-spaces-acoustic/images/content-020.webp",
+          "alt": "Carbon Plastic Slotted Acoustic Panel",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/carbon-plastic-slotted-sound-absorbing-board_1762931262040.webp"
+        },
+        {
+          "file": "images/content-021.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/entertainment-spaces-acoustic/images/content-021.jpg",
+          "alt": "Polymer Damping Brick",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-04_1750410183229_1761818277516.jpg"
+        },
+        {
+          "file": "images/content-022.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/entertainment-spaces-acoustic/images/content-022.jpg",
+          "alt": "Sound Insulation Damping Pad / Mat",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-03_1750410167700_1761818263068.jpg"
+        },
+        {
+          "file": "images/content-023.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/entertainment-spaces-acoustic/images/content-023.jpg",
+          "alt": "Floor Isolator / Vibration Damper",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-02_1750410151666_1761818237260.jpg"
+        }
+      ],
+      "sections": [
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Array Acoustic Baffle"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Array Mesh Acoustic Baffle"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Hacker Acoustic Panel"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Environmental Damping Sound Insulation Panel"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Metal Damping Sound Insulation Panel"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Composite Vibration Damping and Sound Insulation Panel"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Composite Damping Sound Insulation Panel"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Engineering Soundproof Door (Entertainment)"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Damping Sound Insulation Sheet (Double-Sided Self-Adhesive)"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Magic block acoustic panel"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Carbon Plastic Slotted Acoustic Panel"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Polymer Damping Brick"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Sound Insulation Damping Pad / Mat"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Floor Isolator / Vibration Damper"
+        }
+      ],
+      "relatedProducts": [
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935246704853630977",
+          "upstreamTitle": "Array Acoustic Baffle",
+          "localSlug": "acoustic-baffles",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935250233056018434",
+          "upstreamTitle": "Array Mesh Acoustic Baffle",
+          "localSlug": "acoustic-baffles",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935253494081241090",
+          "upstreamTitle": "Array Acoustic Baffle",
+          "localSlug": "acoustic-baffles",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935264788498857986",
+          "upstreamTitle": "Hacker Acoustic Panel",
+          "localSlug": "fabric-acoustic-panels",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935297007340265474",
+          "upstreamTitle": "Environmental Damping Sound Insulation Panel",
+          "localSlug": "sound-insulation",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935298527330869250",
+          "upstreamTitle": "Metal Damping Sound Insulation Panel",
+          "localSlug": "sound-insulation",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935299386454351874",
+          "upstreamTitle": "Composite Vibration Damping and Sound Insulation Panel",
+          "localSlug": "sound-insulation",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935300058423795713",
+          "upstreamTitle": "Composite Damping Sound Insulation Panel",
+          "localSlug": "sound-insulation",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935305496976465922",
+          "upstreamTitle": "Engineering Soundproof Door (Entertainment)",
+          "localSlug": "soundproof-door",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935305716095295490",
+          "upstreamTitle": "Damping Sound Insulation Sheet (Double-Sided Self-Adhesive)",
+          "localSlug": "sound-insulation",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935864182714720258",
+          "upstreamTitle": "Magic block acoustic panel",
+          "localSlug": "fabric-acoustic-panels",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935879920007569409",
+          "upstreamTitle": "Carbon Plastic Slotted Acoustic Panel",
+          "localSlug": "fabric-acoustic-panels",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935897740296642562",
+          "upstreamTitle": "Polymer Damping Brick",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935898511054528513",
+          "upstreamTitle": "Sound Insulation Damping Pad / Mat",
+          "localSlug": "sound-insulation",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935899083509915650",
+          "upstreamTitle": "Floor Isolator / Vibration Damper",
+          "localSlug": null,
+          "matched": false
+        }
+      ],
+      "relatedLocalSlugs": [
+        "acoustic-baffles",
+        "fabric-acoustic-panels",
+        "sound-insulation",
+        "soundproof-door"
+      ],
+      "scrapedAt": "2026-04-18T15:45:35.979Z"
+    },
+    {
+      "mainSolution": "Architectural Acoustics",
+      "subSolution": "Dining areas acoustic",
+      "slug": "dining-areas-acoustic",
+      "group": "architectural-acoustics",
+      "sourceUrl": "https://www.soundbox-sys.com/solution/dining-areas-acoustic",
+      "title": "Dining areas acoustic",
+      "pageTitle": "Solution Details - Soundbox",
+      "description": "SoundBox solution details page",
+      "heroImage": "/solutions2/architectural-acoustics/dining-areas-acoustic/images/hero.webp",
+      "images": [
+        {
+          "file": "images/hero.webp",
+          "publicPath": "/solutions2/architectural-acoustics/dining-areas-acoustic/images/hero.webp",
+          "alt": "1937462578243411969",
+          "role": "hero",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/soundbox-restaurant-noise-reduction_1761735167624.WEBP"
+        },
+        {
+          "file": "images/content-001.webp",
+          "publicPath": "/solutions2/architectural-acoustics/dining-areas-acoustic/images/content-001.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/soundproof-ceiling-wall-soft-decoration_1761735186593.webp"
+        },
+        {
+          "file": "images/content-002.webp",
+          "publicPath": "/solutions2/architectural-acoustics/dining-areas-acoustic/images/content-002.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/restaurant-ceiling-sound-absorbing_1761735211227.webp"
+        },
+        {
+          "file": "images/content-003.webp",
+          "publicPath": "/solutions2/architectural-acoustics/dining-areas-acoustic/images/content-003.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/ceiling-sound-absorbing-material_1761735236254.webp"
+        },
+        {
+          "file": "images/content-004.webp",
+          "publicPath": "/solutions2/architectural-acoustics/dining-areas-acoustic/images/content-004.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/indoor-sound-absorbing-materials_1761735255922.WEBP"
+        },
+        {
+          "file": "images/content-005.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/dining-areas-acoustic/images/content-005.jpg",
+          "alt": "Array Acoustic Baffle",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_116_1750332674056_1761813747555.jpg"
+        },
+        {
+          "file": "images/content-006.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/dining-areas-acoustic/images/content-006.jpg",
+          "alt": "Matrix Acoustic Baffle",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118_1750332636639_1761813590850.jpg"
+        },
+        {
+          "file": "images/content-007.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/dining-areas-acoustic/images/content-007.jpg",
+          "alt": "Customized shape fabric acoustic panel",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/MT30R_1761813952701.jpg"
+        },
+        {
+          "file": "images/content-008.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/dining-areas-acoustic/images/content-008.jpg",
+          "alt": "Matrix Acoustic Baffle",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_116-1_1750382285973_1761813578061.jpg"
+        }
+      ],
+      "sections": [
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Array Acoustic Baffle"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Matrix Acoustic Baffle"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Customized shape fabric acoustic panel"
+        }
+      ],
+      "relatedProducts": [
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935253494081241090",
+          "upstreamTitle": "Array Acoustic Baffle",
+          "localSlug": "acoustic-baffles",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935256128322256898",
+          "upstreamTitle": "Matrix Acoustic Baffle",
+          "localSlug": "acoustic-baffles",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935865613228236802",
+          "upstreamTitle": "Customized shape fabric acoustic panel",
+          "localSlug": "fabric-acoustic-panels",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935871158769213442",
+          "upstreamTitle": "Matrix Acoustic Baffle",
+          "localSlug": "acoustic-baffles",
+          "matched": true
+        }
+      ],
+      "relatedLocalSlugs": [
+        "acoustic-baffles",
+        "fabric-acoustic-panels"
+      ],
+      "scrapedAt": "2026-04-18T15:45:40.518Z"
+    },
+    {
+      "mainSolution": "Architectural Acoustics",
+      "subSolution": "Healthcare facilities acoustic",
+      "slug": "healthcare-facilities-acoustic",
+      "group": "architectural-acoustics",
+      "sourceUrl": "https://www.soundbox-sys.com/solution/healthcare-facilities-acoustic",
+      "title": "Healthcare facilities acoustic",
+      "pageTitle": "Solution Details - Soundbox",
+      "description": "SoundBox solution details page",
+      "heroImage": "/solutions2/architectural-acoustics/healthcare-facilities-acoustic/images/hero.webp",
+      "images": [
+        {
+          "file": "images/hero.webp",
+          "publicPath": "/solutions2/architectural-acoustics/healthcare-facilities-acoustic/images/hero.webp",
+          "alt": "1929796418735153154",
+          "role": "hero",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/noise-reduction-in-medical-institutions_1761736186468.webp"
+        },
+        {
+          "file": "images/content-001.webp",
+          "publicPath": "/solutions2/architectural-acoustics/healthcare-facilities-acoustic/images/content-001.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/soundproof-cabin-in-medical-institutions_1761736197515.WEBP"
+        },
+        {
+          "file": "images/content-002.webp",
+          "publicPath": "/solutions2/architectural-acoustics/healthcare-facilities-acoustic/images/content-002.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/hospital-soundproof-and-protective-cabin_1761736219253.WEBP"
+        },
+        {
+          "file": "images/content-003.webp",
+          "publicPath": "/solutions2/architectural-acoustics/healthcare-facilities-acoustic/images/content-003.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/noise-reduction-in-hospital-lobby_1761736235470.WEBP"
+        },
+        {
+          "file": "images/content-004.webp",
+          "publicPath": "/solutions2/architectural-acoustics/healthcare-facilities-acoustic/images/content-004.webp",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/ward-noise-reduction-decoration_1761736251276.WEBP"
+        },
+        {
+          "file": "images/content-005.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/healthcare-facilities-acoustic/images/content-005.jpg",
+          "alt": "Engineering Soundproof Door (Hospital)",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_116_1750331640370_1761813521786.jpg"
+        },
+        {
+          "file": "images/content-006.jpg",
+          "publicPath": "/solutions2/architectural-acoustics/healthcare-facilities-acoustic/images/content-006.jpg",
+          "alt": "Environmental Damping Sound Insulation Panel",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/G15E_1750409909885_1761880395922.jpg"
+        },
+        {
+          "file": "images/content-007.webp",
+          "publicPath": "/solutions2/architectural-acoustics/healthcare-facilities-acoustic/images/content-007.webp",
+          "alt": "Carbon Plastic Slotted Acoustic Panel",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/carbon-plastic-slotted-sound-absorbing-board_1762931262040.webp"
+        }
+      ],
+      "sections": [
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Engineering Soundproof Door (Hospital)"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Environmental Damping Sound Insulation Panel"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Carbon Plastic Slotted Acoustic Panel"
+        }
+      ],
+      "relatedProducts": [
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935288872487657473",
+          "upstreamTitle": "Engineering Soundproof Door (Hospital)",
+          "localSlug": "soundproof-door",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935294843939233794",
+          "upstreamTitle": "Environmental Damping Sound Insulation Panel",
+          "localSlug": "sound-insulation",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935879920007569409",
+          "upstreamTitle": "Carbon Plastic Slotted Acoustic Panel",
+          "localSlug": "fabric-acoustic-panels",
+          "matched": true
+        }
+      ],
+      "relatedLocalSlugs": [
+        "soundproof-door",
+        "sound-insulation",
+        "fabric-acoustic-panels"
+      ],
+      "scrapedAt": "2026-04-18T15:45:51.990Z"
+    },
+    {
+      "mainSolution": "Industrial Facilities",
+      "subSolution": "Product car",
+      "slug": "product-car",
+      "group": "industrial-facilities",
+      "sourceUrl": "https://www.soundbox-sys.com/html/product-car",
+      "title": "SoundBox - Car NVH",
+      "pageTitle": "SoundBox - Car NVH",
+      "description": "NVH is an important indicator for measuring automotive quality and a focus of international automobile manufacturers. It is a complex and difficult-to-solve comprehensive technical problem. Soundbox has 15 years of acoustic practice and has accumulated an experienced team in analyzing and solving various noise and vibration issues. Based on powerful acoustic simulation technology, we manufacture high-performance complete materials most conducive to solving NVH. These materials consist of energy-absorbing materials with significant IIR damping factors, Bayer acoustic cotton manufactured using electrostatic ultrafine spinning technology, and air-sealing materials. Such equipment is undoubtedly prepared to absorb body sheet metal vibration noise and consume cavity layer noise in the body structure. Similarly, it has strict requirements for ecology, environmental protection, and safety, which is Soundbox's value mission.",
+      "heroImage": "/solutions2/industrial-facilities/product-car/images/hero.jpg",
+      "images": [
+        {
+          "file": "images/hero.jpg",
+          "publicPath": "/solutions2/industrial-facilities/product-car/images/hero.jpg",
+          "alt": "Car NVH",
+          "role": "hero",
+          "sourceUrl": "https://www.soundbox-sys.com/images/product/car/car_header.jpg"
+        },
+        {
+          "file": "images/content-001.webp",
+          "publicPath": "/solutions2/industrial-facilities/product-car/images/content-001.webp",
+          "alt": "Car NVH",
+          "role": "content",
+          "sourceUrl": "https://www.soundbox-sys.com/images/product/car/car_nvh.webp"
+        },
+        {
+          "file": "images/content-002.webp",
+          "publicPath": "/solutions2/industrial-facilities/product-car/images/content-002.webp",
+          "alt": "Car NVH",
+          "role": "content",
+          "sourceUrl": "https://www.soundbox-sys.com/images/product/car/car_composition.webp"
+        },
+        {
+          "file": "images/content-003.jpg",
+          "publicPath": "/solutions2/industrial-facilities/product-car/images/content-003.jpg",
+          "alt": "Car NVH",
+          "role": "content",
+          "sourceUrl": "https://www.soundbox-sys.com/images/product/car/car_set.jpg"
+        },
+        {
+          "file": "images/content-004.jpg",
+          "publicPath": "/solutions2/industrial-facilities/product-car/images/content-004.jpg",
+          "alt": "Car NVH",
+          "role": "content",
+          "sourceUrl": "https://www.soundbox-sys.com/images/product/car/comparative_testing.jpg"
+        },
+        {
+          "file": "images/content-005.jpg",
+          "publicPath": "/solutions2/industrial-facilities/product-car/images/content-005.jpg",
+          "alt": "Car NVH",
+          "role": "content",
+          "sourceUrl": "https://www.soundbox-sys.com/images/product/car/danping_material.jpg"
+        },
+        {
+          "file": "images/content-006.jpg",
+          "publicPath": "/solutions2/industrial-facilities/product-car/images/content-006.jpg",
+          "alt": "Chassis Kit",
+          "role": "content",
+          "sourceUrl": "https://www.soundbox-sys.com/images/product/car/chassis_kit.jpg"
+        },
+        {
+          "file": "images/content-007.jpg",
+          "publicPath": "/solutions2/industrial-facilities/product-car/images/content-007.jpg",
+          "alt": "Trunk Kit",
+          "role": "content",
+          "sourceUrl": "https://www.soundbox-sys.com/images/product/car/trunk_kit.jpg"
+        },
+        {
+          "file": "images/content-008.jpg",
+          "publicPath": "/solutions2/industrial-facilities/product-car/images/content-008.jpg",
+          "alt": "Four Wheels Kit",
+          "role": "content",
+          "sourceUrl": "https://www.soundbox-sys.com/images/product/car/four_wheel_kit.jpg"
+        },
+        {
+          "file": "images/content-009.jpg",
+          "publicPath": "/solutions2/industrial-facilities/product-car/images/content-009.jpg",
+          "alt": "Four Doors Kit",
+          "role": "content",
+          "sourceUrl": "https://www.soundbox-sys.com/images/product/car/four_door.jpg"
+        },
+        {
+          "file": "images/content-010.jpg",
+          "publicPath": "/solutions2/industrial-facilities/product-car/images/content-010.jpg",
+          "alt": "Hood Kit",
+          "role": "content",
+          "sourceUrl": "https://www.soundbox-sys.com/images/product/car/hood_kit.jpg"
+        },
+        {
+          "file": "images/content-011.jpg",
+          "publicPath": "/solutions2/industrial-facilities/product-car/images/content-011.jpg",
+          "alt": "Sealing Kit",
+          "role": "content",
+          "sourceUrl": "https://www.soundbox-sys.com/images/product/car/sealant_strip_kit.jpg"
+        },
+        {
+          "file": "images/content-012.webp",
+          "publicPath": "/solutions2/industrial-facilities/product-car/images/content-012.webp",
+          "alt": "Car NVH",
+          "role": "content",
+          "sourceUrl": "https://www.soundbox-sys.com/images/product/car/installation_case.webp"
+        }
+      ],
+      "sections": [
+        {
+          "type": "p",
+          "level": 0,
+          "text": "NVH is an important indicator for measuring automotive quality and a focus of international automobile manufacturers. It is a complex and difficult-to-solve comprehensive technical problem. Soundbox has 15 years of acoustic practice and has accumulated an experienced team in analyzing and solving various noise and vibration issues. Based on powerful acoustic simulation technology, we manufacture high-performance complete materials most conducive to solving NVH. These materials consist of energy-absorbing materials with significant IIR damping factors, Bayer acoustic cotton manufactured using electrostatic ultrafine spinning technology, and air-sealing materials. Such equipment is undoubtedly prepared to absorb body sheet metal vibration noise and consume cavity layer noise in the body structure. Similarly, it has strict requirements for ecology, environmental protection, and safety, which is Soundbox's value mission."
+        },
+        {
+          "type": "p",
+          "level": 0,
+          "text": "Engineers are using a microphone array to measure the noise position in the engine compartment of this SUV while driving. Only after accurately locating the noise source can corresponding sound insulation and noise reduction countermeasures be adopted."
+        }
+      ],
+      "relatedProducts": [
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935599830622638082",
+          "upstreamTitle": "Chassis Kit",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935937716401004545",
+          "upstreamTitle": "Front and Rear Trunk Kit",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935600918042087426",
+          "upstreamTitle": "Four-Wheel Kit",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935602572355276802",
+          "upstreamTitle": "Four-Door Kit",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935605139151884290",
+          "upstreamTitle": "Engine Hood Kit",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1936347643975278594",
+          "upstreamTitle": "Sealing Kit",
+          "localSlug": null,
+          "matched": false
+        }
+      ],
+      "relatedLocalSlugs": [],
+      "scrapedAt": "2026-04-18T15:46:49.643Z"
+    },
+    {
+      "mainSolution": "Industrial Facilities",
+      "subSolution": "High speed rail noise reduction",
+      "slug": "high-speed-rail-noise-reduction",
+      "group": "industrial-facilities",
+      "sourceUrl": "https://www.soundbox-sys.com/solution/high-speed-rail-noise-reduction",
+      "title": "High speed rail noise reduction",
+      "pageTitle": "Solution Details - Soundbox",
+      "description": "SoundBox solution details page",
+      "heroImage": "/solutions2/industrial-facilities/high-speed-rail-noise-reduction/images/hero.jpg",
+      "images": [
+        {
+          "file": "images/hero.jpg",
+          "publicPath": "/solutions2/industrial-facilities/high-speed-rail-noise-reduction/images/hero.jpg",
+          "alt": "1929797316433649665",
+          "role": "hero",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/%E9%AB%98%E9%93%81%E9%99%8D%E5%99%AA_01_1761789541700.jpg"
+        },
+        {
+          "file": "images/content-001.jpg",
+          "publicPath": "/solutions2/industrial-facilities/high-speed-rail-noise-reduction/images/content-001.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E9%AB%98%E9%93%81%E9%99%8D%E5%99%AA_04_1761789547129.jpg"
+        },
+        {
+          "file": "images/content-002.jpg",
+          "publicPath": "/solutions2/industrial-facilities/high-speed-rail-noise-reduction/images/content-002.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E9%AB%98%E9%93%81%E9%99%8D%E5%99%AA_06_1761789555406.jpg"
+        },
+        {
+          "file": "images/content-003.jpg",
+          "publicPath": "/solutions2/industrial-facilities/high-speed-rail-noise-reduction/images/content-003.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E9%AB%98%E9%93%81%E9%99%8D%E5%99%AA_07_1761789563164.jpg"
+        },
+        {
+          "file": "images/content-004.jpg",
+          "publicPath": "/solutions2/industrial-facilities/high-speed-rail-noise-reduction/images/content-004.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E9%AB%98%E9%93%81%E9%99%8D%E5%99%AA_09_1761789572104.jpg"
+        },
+        {
+          "file": "images/content-005.png",
+          "publicPath": "/solutions2/industrial-facilities/high-speed-rail-noise-reduction/images/content-005.png",
+          "alt": "White Fiber Environmental Acoustic Cotton",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/__-1_1750243411988_1761814392026.png"
+        },
+        {
+          "file": "images/content-006.webp",
+          "publicPath": "/solutions2/industrial-facilities/high-speed-rail-noise-reduction/images/content-006.webp",
+          "alt": "Byer Acoustic Cotton",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/bayer-acoustic-cotton_1763103268950.webp"
+        },
+        {
+          "file": "images/content-007.jpg",
+          "publicPath": "/solutions2/industrial-facilities/high-speed-rail-noise-reduction/images/content-007.jpg",
+          "alt": "Damping Sound Insulation Sheet (Single-Sided Aluminum Foil)",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118_1750410057000_1761818168143.jpg"
+        },
+        {
+          "file": "images/content-008.jpg",
+          "publicPath": "/solutions2/industrial-facilities/high-speed-rail-noise-reduction/images/content-008.jpg",
+          "alt": "Polymer Sound Insulation Felt",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-2_1750410046877_1761817620600.jpg"
+        },
+        {
+          "file": "images/content-009.jpg",
+          "publicPath": "/solutions2/industrial-facilities/high-speed-rail-noise-reduction/images/content-009.jpg",
+          "alt": "Damping Vibration Reduction Paint (Water-based)",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/______1750485063285_1761816479340.jpg"
+        },
+        {
+          "file": "images/content-010.jpg",
+          "publicPath": "/solutions2/industrial-facilities/high-speed-rail-noise-reduction/images/content-010.jpg",
+          "alt": "Polymer Damping Brick",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-04_1750410183229_1761818277516.jpg"
+        },
+        {
+          "file": "images/content-011.jpg",
+          "publicPath": "/solutions2/industrial-facilities/high-speed-rail-noise-reduction/images/content-011.jpg",
+          "alt": "Sound Insulation Damping Pad / Mat",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-03_1750410167700_1761818263068.jpg"
+        },
+        {
+          "file": "images/content-012.jpg",
+          "publicPath": "/solutions2/industrial-facilities/high-speed-rail-noise-reduction/images/content-012.jpg",
+          "alt": "Floor Isolator / Vibration Damper",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-02_1750410151666_1761818237260.jpg"
+        }
+      ],
+      "sections": [
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "White Fiber Environmental Acoustic Cotton"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Byer Acoustic Cotton"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Damping Sound Insulation Sheet (Single-Sided Aluminum Foil)"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Polymer Sound Insulation Felt"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Damping Vibration Reduction Paint (Water-based)"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Polymer Damping Brick"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Sound Insulation Damping Pad / Mat"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Floor Isolator / Vibration Damper"
+        }
+      ],
+      "relatedProducts": [
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935288709354397698",
+          "upstreamTitle": "White Fiber Environmental Acoustic Cotton",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935289980996067330",
+          "upstreamTitle": "Byer Acoustic Cotton",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935306430385266690",
+          "upstreamTitle": "Damping Sound Insulation Sheet (Single-Sided Aluminum Foil)",
+          "localSlug": "sound-insulation",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935309686641565698",
+          "upstreamTitle": "Polymer Sound Insulation Felt",
+          "localSlug": "sound-insulation",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935654450389377025",
+          "upstreamTitle": "Damping Vibration Reduction Paint (Water-based)",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935897740296642562",
+          "upstreamTitle": "Polymer Damping Brick",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935898511054528513",
+          "upstreamTitle": "Sound Insulation Damping Pad / Mat",
+          "localSlug": "sound-insulation",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935899083509915650",
+          "upstreamTitle": "Floor Isolator / Vibration Damper",
+          "localSlug": null,
+          "matched": false
+        }
+      ],
+      "relatedLocalSlugs": [
+        "sound-insulation"
+      ],
+      "scrapedAt": "2026-04-18T15:47:09.640Z"
+    },
+    {
+      "mainSolution": "Industrial Facilities",
+      "subSolution": "Marine Vessels",
+      "slug": "marine-vessels-noise-reduction",
+      "group": "industrial-facilities",
+      "sourceUrl": "https://www.soundbox-sys.com/solution/marine-vessels-noise-reduction",
+      "title": "Marine Vessels",
+      "pageTitle": "Solution Details - Soundbox",
+      "description": "SoundBox solution details page",
+      "heroImage": "/solutions2/industrial-facilities/marine-vessels-noise-reduction/images/hero.jpg",
+      "images": [
+        {
+          "file": "images/hero.jpg",
+          "publicPath": "/solutions2/industrial-facilities/marine-vessels-noise-reduction/images/hero.jpg",
+          "alt": "1929797360519979009",
+          "role": "hero",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/%E8%88%B9%E8%88%B6%E9%99%8D%E5%99%AA_01_1761789407067.jpg"
+        },
+        {
+          "file": "images/content-001.jpg",
+          "publicPath": "/solutions2/industrial-facilities/marine-vessels-noise-reduction/images/content-001.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E8%88%B9%E8%88%B6%E9%99%8D%E5%99%AA_04_1761789437506.jpg"
+        },
+        {
+          "file": "images/content-002.jpg",
+          "publicPath": "/solutions2/industrial-facilities/marine-vessels-noise-reduction/images/content-002.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E8%88%B9%E8%88%B6%E9%99%8D%E5%99%AA_07_1761789453030.jpg"
+        },
+        {
+          "file": "images/content-003.jpg",
+          "publicPath": "/solutions2/industrial-facilities/marine-vessels-noise-reduction/images/content-003.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E8%88%B9%E8%88%B6%E9%99%8D%E5%99%AA_08_1761789476610.jpg"
+        },
+        {
+          "file": "images/content-004.jpg",
+          "publicPath": "/solutions2/industrial-facilities/marine-vessels-noise-reduction/images/content-004.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E8%88%B9%E8%88%B6%E9%99%8D%E5%99%AA_10_1761789488113.jpg"
+        },
+        {
+          "file": "images/content-005.png",
+          "publicPath": "/solutions2/industrial-facilities/marine-vessels-noise-reduction/images/content-005.png",
+          "alt": "White Fiber Environmental Acoustic Cotton",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/__-1_1750243411988_1761814392026.png"
+        },
+        {
+          "file": "images/content-006.webp",
+          "publicPath": "/solutions2/industrial-facilities/marine-vessels-noise-reduction/images/content-006.webp",
+          "alt": "Byer Acoustic Cotton",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/bayer-acoustic-cotton_1763103268950.webp"
+        },
+        {
+          "file": "images/content-007.jpg",
+          "publicPath": "/solutions2/industrial-facilities/marine-vessels-noise-reduction/images/content-007.jpg",
+          "alt": "Damping Sound Insulation Sheet (Single-Sided Aluminum Foil)",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118_1750410057000_1761818168143.jpg"
+        },
+        {
+          "file": "images/content-008.jpg",
+          "publicPath": "/solutions2/industrial-facilities/marine-vessels-noise-reduction/images/content-008.jpg",
+          "alt": "Polymer Sound Insulation Felt",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-2_1750410046877_1761817620600.jpg"
+        },
+        {
+          "file": "images/content-009.jpg",
+          "publicPath": "/solutions2/industrial-facilities/marine-vessels-noise-reduction/images/content-009.jpg",
+          "alt": "Damping Vibration Reduction Paint (Water-based)",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/______1750485063285_1761816479340.jpg"
+        },
+        {
+          "file": "images/content-010.jpg",
+          "publicPath": "/solutions2/industrial-facilities/marine-vessels-noise-reduction/images/content-010.jpg",
+          "alt": "Polymer Damping Brick",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-04_1750410183229_1761818277516.jpg"
+        },
+        {
+          "file": "images/content-011.jpg",
+          "publicPath": "/solutions2/industrial-facilities/marine-vessels-noise-reduction/images/content-011.jpg",
+          "alt": "Sound Insulation Damping Pad / Mat",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-03_1750410167700_1761818263068.jpg"
+        },
+        {
+          "file": "images/content-012.jpg",
+          "publicPath": "/solutions2/industrial-facilities/marine-vessels-noise-reduction/images/content-012.jpg",
+          "alt": "Floor Isolator / Vibration Damper",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-02_1750410151666_1761818237260.jpg"
+        }
+      ],
+      "sections": [
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "White Fiber Environmental Acoustic Cotton"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Byer Acoustic Cotton"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Damping Sound Insulation Sheet (Single-Sided Aluminum Foil)"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Polymer Sound Insulation Felt"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Damping Vibration Reduction Paint (Water-based)"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Polymer Damping Brick"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Sound Insulation Damping Pad / Mat"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Floor Isolator / Vibration Damper"
+        }
+      ],
+      "relatedProducts": [
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935288709354397698",
+          "upstreamTitle": "White Fiber Environmental Acoustic Cotton",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935289980996067330",
+          "upstreamTitle": "Byer Acoustic Cotton",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935306430385266690",
+          "upstreamTitle": "Damping Sound Insulation Sheet (Single-Sided Aluminum Foil)",
+          "localSlug": "sound-insulation",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935309686641565698",
+          "upstreamTitle": "Polymer Sound Insulation Felt",
+          "localSlug": "sound-insulation",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935654450389377025",
+          "upstreamTitle": "Damping Vibration Reduction Paint (Water-based)",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935897740296642562",
+          "upstreamTitle": "Polymer Damping Brick",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935898511054528513",
+          "upstreamTitle": "Sound Insulation Damping Pad / Mat",
+          "localSlug": "sound-insulation",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935899083509915650",
+          "upstreamTitle": "Floor Isolator / Vibration Damper",
+          "localSlug": null,
+          "matched": false
+        }
+      ],
+      "relatedLocalSlugs": [
+        "sound-insulation"
+      ],
+      "scrapedAt": "2026-04-18T15:47:14.580Z"
+    },
+    {
+      "mainSolution": "Industrial Facilities",
+      "subSolution": "Warships noise reduction",
+      "slug": "warships-noise-reduction",
+      "group": "industrial-facilities",
+      "sourceUrl": "https://www.soundbox-sys.com/solution/warships-noise-reduction",
+      "title": "Warships noise reduction",
+      "pageTitle": "Solution Details - Soundbox",
+      "description": "SoundBox solution details page",
+      "heroImage": "/solutions2/industrial-facilities/warships-noise-reduction/images/hero.jpg",
+      "images": [
+        {
+          "file": "images/hero.jpg",
+          "publicPath": "/solutions2/industrial-facilities/warships-noise-reduction/images/hero.jpg",
+          "alt": "1929797403515789314",
+          "role": "hero",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/%E5%86%9B%E8%88%B0%E9%99%8D%E5%99%AA_01_1761790126303.jpg"
+        },
+        {
+          "file": "images/content-001.jpg",
+          "publicPath": "/solutions2/industrial-facilities/warships-noise-reduction/images/content-001.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E5%86%9B%E8%88%B0%E9%99%8D%E5%99%AA_04_1761790130680.jpg"
+        },
+        {
+          "file": "images/content-002.jpg",
+          "publicPath": "/solutions2/industrial-facilities/warships-noise-reduction/images/content-002.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E5%86%9B%E8%88%B0%E9%99%8D%E5%99%AA_06_1761790141563.jpg"
+        },
+        {
+          "file": "images/content-003.jpg",
+          "publicPath": "/solutions2/industrial-facilities/warships-noise-reduction/images/content-003.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E5%86%9B%E8%88%B0%E9%99%8D%E5%99%AA_08_1761790151247.jpg"
+        },
+        {
+          "file": "images/content-004.png",
+          "publicPath": "/solutions2/industrial-facilities/warships-noise-reduction/images/content-004.png",
+          "alt": "White Fiber Environmental Acoustic Cotton",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/__-1_1750243411988_1761814392026.png"
+        },
+        {
+          "file": "images/content-005.webp",
+          "publicPath": "/solutions2/industrial-facilities/warships-noise-reduction/images/content-005.webp",
+          "alt": "Byer Acoustic Cotton",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/bayer-acoustic-cotton_1763103268950.webp"
+        },
+        {
+          "file": "images/content-006.jpg",
+          "publicPath": "/solutions2/industrial-facilities/warships-noise-reduction/images/content-006.jpg",
+          "alt": "Damping Sound Insulation Sheet (Single-Sided Aluminum Foil)",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118_1750410057000_1761818168143.jpg"
+        },
+        {
+          "file": "images/content-007.jpg",
+          "publicPath": "/solutions2/industrial-facilities/warships-noise-reduction/images/content-007.jpg",
+          "alt": "Polymer Sound Insulation Felt",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-2_1750410046877_1761817620600.jpg"
+        },
+        {
+          "file": "images/content-008.jpg",
+          "publicPath": "/solutions2/industrial-facilities/warships-noise-reduction/images/content-008.jpg",
+          "alt": "Damping Vibration Reduction Paint (Water-based)",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/______1750485063285_1761816479340.jpg"
+        },
+        {
+          "file": "images/content-009.jpg",
+          "publicPath": "/solutions2/industrial-facilities/warships-noise-reduction/images/content-009.jpg",
+          "alt": "Polymer Damping Brick",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-04_1750410183229_1761818277516.jpg"
+        },
+        {
+          "file": "images/content-010.jpg",
+          "publicPath": "/solutions2/industrial-facilities/warships-noise-reduction/images/content-010.jpg",
+          "alt": "Sound Insulation Damping Pad / Mat",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-03_1750410167700_1761818263068.jpg"
+        },
+        {
+          "file": "images/content-011.jpg",
+          "publicPath": "/solutions2/industrial-facilities/warships-noise-reduction/images/content-011.jpg",
+          "alt": "Floor Isolator / Vibration Damper",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-02_1750410151666_1761818237260.jpg"
+        }
+      ],
+      "sections": [
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "White Fiber Environmental Acoustic Cotton"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Byer Acoustic Cotton"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Damping Sound Insulation Sheet (Single-Sided Aluminum Foil)"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Polymer Sound Insulation Felt"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Damping Vibration Reduction Paint (Water-based)"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Polymer Damping Brick"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Sound Insulation Damping Pad / Mat"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Floor Isolator / Vibration Damper"
+        }
+      ],
+      "relatedProducts": [
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935288709354397698",
+          "upstreamTitle": "White Fiber Environmental Acoustic Cotton",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935289980996067330",
+          "upstreamTitle": "Byer Acoustic Cotton",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935306430385266690",
+          "upstreamTitle": "Damping Sound Insulation Sheet (Single-Sided Aluminum Foil)",
+          "localSlug": "sound-insulation",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935309686641565698",
+          "upstreamTitle": "Polymer Sound Insulation Felt",
+          "localSlug": "sound-insulation",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935654450389377025",
+          "upstreamTitle": "Damping Vibration Reduction Paint (Water-based)",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935897740296642562",
+          "upstreamTitle": "Polymer Damping Brick",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935898511054528513",
+          "upstreamTitle": "Sound Insulation Damping Pad / Mat",
+          "localSlug": "sound-insulation",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935899083509915650",
+          "upstreamTitle": "Floor Isolator / Vibration Damper",
+          "localSlug": null,
+          "matched": false
+        }
+      ],
+      "relatedLocalSlugs": [
+        "sound-insulation"
+      ],
+      "scrapedAt": "2026-04-18T15:47:18.980Z"
+    },
+    {
+      "mainSolution": "Industrial Facilities",
+      "subSolution": "Armored vehicles noise reduction",
+      "slug": "armored-vehicles-noise-reduction",
+      "group": "industrial-facilities",
+      "sourceUrl": "https://www.soundbox-sys.com/solution/armored-vehicles-noise-reduction",
+      "title": "Armored vehicles noise reduction",
+      "pageTitle": "Solution Details - Soundbox",
+      "description": "SoundBox solution details page",
+      "heroImage": "/solutions2/industrial-facilities/armored-vehicles-noise-reduction/images/hero.webp",
+      "images": [
+        {
+          "file": "images/hero.webp",
+          "publicPath": "/solutions2/industrial-facilities/armored-vehicles-noise-reduction/images/hero.webp",
+          "alt": "1929797445752430594",
+          "role": "hero",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/%E8%A3%85%E7%94%B2%E8%BD%A6%E9%99%8D%E5%99%AA_01%E6%8B%B7%E8%B4%9D_1761790654867.webp"
+        },
+        {
+          "file": "images/content-001.jpg",
+          "publicPath": "/solutions2/industrial-facilities/armored-vehicles-noise-reduction/images/content-001.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E8%A3%85%E7%94%B2%E8%BD%A6%E9%99%8D%E5%99%AA_04_1761790658729.jpg"
+        },
+        {
+          "file": "images/content-002.jpg",
+          "publicPath": "/solutions2/industrial-facilities/armored-vehicles-noise-reduction/images/content-002.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E8%A3%85%E7%94%B2%E8%BD%A6%E9%99%8D%E5%99%AA_06_1761790663457.jpg"
+        },
+        {
+          "file": "images/content-003.jpg",
+          "publicPath": "/solutions2/industrial-facilities/armored-vehicles-noise-reduction/images/content-003.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E8%A3%85%E7%94%B2%E8%BD%A6%E9%99%8D%E5%99%AA_07_1761790670873.jpg"
+        },
+        {
+          "file": "images/content-004.png",
+          "publicPath": "/solutions2/industrial-facilities/armored-vehicles-noise-reduction/images/content-004.png",
+          "alt": "White Fiber Environmental Acoustic Cotton",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/__-1_1750243411988_1761814392026.png"
+        },
+        {
+          "file": "images/content-005.webp",
+          "publicPath": "/solutions2/industrial-facilities/armored-vehicles-noise-reduction/images/content-005.webp",
+          "alt": "Byer Acoustic Cotton",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/bayer-acoustic-cotton_1763103268950.webp"
+        },
+        {
+          "file": "images/content-006.jpg",
+          "publicPath": "/solutions2/industrial-facilities/armored-vehicles-noise-reduction/images/content-006.jpg",
+          "alt": "Damping Sound Insulation Sheet (Single-Sided Aluminum Foil)",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118_1750410057000_1761818168143.jpg"
+        },
+        {
+          "file": "images/content-007.jpg",
+          "publicPath": "/solutions2/industrial-facilities/armored-vehicles-noise-reduction/images/content-007.jpg",
+          "alt": "Polymer Sound Insulation Felt",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-2_1750410046877_1761817620600.jpg"
+        },
+        {
+          "file": "images/content-008.jpg",
+          "publicPath": "/solutions2/industrial-facilities/armored-vehicles-noise-reduction/images/content-008.jpg",
+          "alt": "Damping Vibration Reduction Paint (Water-based)",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/______1750485063285_1761816479340.jpg"
+        },
+        {
+          "file": "images/content-009.jpg",
+          "publicPath": "/solutions2/industrial-facilities/armored-vehicles-noise-reduction/images/content-009.jpg",
+          "alt": "Polymer Damping Brick",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-04_1750410183229_1761818277516.jpg"
+        },
+        {
+          "file": "images/content-010.jpg",
+          "publicPath": "/solutions2/industrial-facilities/armored-vehicles-noise-reduction/images/content-010.jpg",
+          "alt": "Sound Insulation Damping Pad / Mat",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-03_1750410167700_1761818263068.jpg"
+        },
+        {
+          "file": "images/content-011.jpg",
+          "publicPath": "/solutions2/industrial-facilities/armored-vehicles-noise-reduction/images/content-011.jpg",
+          "alt": "Floor Isolator / Vibration Damper",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-02_1750410151666_1761818237260.jpg"
+        }
+      ],
+      "sections": [
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "White Fiber Environmental Acoustic Cotton"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Byer Acoustic Cotton"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Damping Sound Insulation Sheet (Single-Sided Aluminum Foil)"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Polymer Sound Insulation Felt"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Damping Vibration Reduction Paint (Water-based)"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Polymer Damping Brick"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Sound Insulation Damping Pad / Mat"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Floor Isolator / Vibration Damper"
+        }
+      ],
+      "relatedProducts": [
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935288709354397698",
+          "upstreamTitle": "White Fiber Environmental Acoustic Cotton",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935289980996067330",
+          "upstreamTitle": "Byer Acoustic Cotton",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935306430385266690",
+          "upstreamTitle": "Damping Sound Insulation Sheet (Single-Sided Aluminum Foil)",
+          "localSlug": "sound-insulation",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935309686641565698",
+          "upstreamTitle": "Polymer Sound Insulation Felt",
+          "localSlug": "sound-insulation",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935654450389377025",
+          "upstreamTitle": "Damping Vibration Reduction Paint (Water-based)",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935897740296642562",
+          "upstreamTitle": "Polymer Damping Brick",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935898511054528513",
+          "upstreamTitle": "Sound Insulation Damping Pad / Mat",
+          "localSlug": "sound-insulation",
+          "matched": true
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935899083509915650",
+          "upstreamTitle": "Floor Isolator / Vibration Damper",
+          "localSlug": null,
+          "matched": false
+        }
+      ],
+      "relatedLocalSlugs": [
+        "sound-insulation"
+      ],
+      "scrapedAt": "2026-04-18T15:47:23.464Z"
+    },
+    {
+      "mainSolution": "Environmental Noise Control",
+      "subSolution": "Hydroelectric power stations acoustic",
+      "slug": "hydroelectric-power-stations-acoustic",
+      "group": "environmental-noise-control",
+      "sourceUrl": "https://www.soundbox-sys.com/solution/hydroelectric-power-stations-acoustic",
+      "title": "Hydroelectric power stations acoustic",
+      "pageTitle": "Solution Details - Soundbox",
+      "description": "SoundBox solution details page",
+      "heroImage": "/solutions2/environmental-noise-control/hydroelectric-power-stations-acoustic/images/hero.webp",
+      "images": [
+        {
+          "file": "images/hero.webp",
+          "publicPath": "/solutions2/environmental-noise-control/hydroelectric-power-stations-acoustic/images/hero.webp",
+          "alt": "1929796826601857026",
+          "role": "hero",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/%E6%B0%B4%E7%94%B5%E7%AB%99_01_1761790338720.webp"
+        },
+        {
+          "file": "images/content-001.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/hydroelectric-power-stations-acoustic/images/content-001.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E6%B0%B4%E7%94%B5%E7%AB%99_04_1761790355331.jpg"
+        },
+        {
+          "file": "images/content-002.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/hydroelectric-power-stations-acoustic/images/content-002.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E6%B0%B4%E7%94%B5%E7%AB%99_06_1761790367157.jpg"
+        },
+        {
+          "file": "images/content-003.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/hydroelectric-power-stations-acoustic/images/content-003.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E6%B0%B4%E7%94%B5%E7%AB%99_07_1761790392835.jpg"
+        },
+        {
+          "file": "images/content-004.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/hydroelectric-power-stations-acoustic/images/content-004.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E6%B0%B4%E7%94%B5%E7%AB%99_08_1761790418542.jpg"
+        },
+        {
+          "file": "images/content-005.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/hydroelectric-power-stations-acoustic/images/content-005.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E6%B0%B4%E7%94%B5%E7%AB%99_10_1761790441988.jpg"
+        },
+        {
+          "file": "images/content-006.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/hydroelectric-power-stations-acoustic/images/content-006.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E6%B0%B4%E7%94%B5%E7%AB%99_12_1761790464366.jpg"
+        },
+        {
+          "file": "images/content-007.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/hydroelectric-power-stations-acoustic/images/content-007.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E6%B0%B4%E7%94%B5%E7%AB%99_14_1761790480935.jpg"
+        },
+        {
+          "file": "images/content-008.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/hydroelectric-power-stations-acoustic/images/content-008.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E6%B0%B4%E7%94%B5%E7%AB%99_15_1761790488084.jpg"
+        },
+        {
+          "file": "images/content-009.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/hydroelectric-power-stations-acoustic/images/content-009.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E6%B0%B4%E7%94%B5%E7%AB%99_16_1761790499237.jpg"
+        },
+        {
+          "file": "images/content-010.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/hydroelectric-power-stations-acoustic/images/content-010.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E6%B0%B4%E7%94%B5%E7%AB%99_17_1761790508418.jpg"
+        },
+        {
+          "file": "images/content-011.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/hydroelectric-power-stations-acoustic/images/content-011.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E6%B0%B4%E7%94%B5%E7%AB%99_18_1761790516287.jpg"
+        },
+        {
+          "file": "images/content-012.png",
+          "publicPath": "/solutions2/environmental-noise-control/hydroelectric-power-stations-acoustic/images/content-012.png",
+          "alt": "White Fiber Environmental Acoustic Cotton",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/__-1_1750243411988_1761814392026.png"
+        },
+        {
+          "file": "images/content-013.webp",
+          "publicPath": "/solutions2/environmental-noise-control/hydroelectric-power-stations-acoustic/images/content-013.webp",
+          "alt": "Byer Acoustic Cotton",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/bayer-acoustic-cotton_1763103268950.webp"
+        },
+        {
+          "file": "images/content-014.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/hydroelectric-power-stations-acoustic/images/content-014.jpg",
+          "alt": "Damping Vibration Reduction Paint (Water-based)",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/______1750485063285_1761816479340.jpg"
+        },
+        {
+          "file": "images/content-015.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/hydroelectric-power-stations-acoustic/images/content-015.jpg",
+          "alt": "Polymer Damping Brick",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-04_1750410183229_1761818277516.jpg"
+        },
+        {
+          "file": "images/content-016.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/hydroelectric-power-stations-acoustic/images/content-016.jpg",
+          "alt": "Floor Isolator / Vibration Damper",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-02_1750410151666_1761818237260.jpg"
+        }
+      ],
+      "sections": [
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "White Fiber Environmental Acoustic Cotton"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Byer Acoustic Cotton"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Damping Vibration Reduction Paint (Water-based)"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Polymer Damping Brick"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Floor Isolator / Vibration Damper"
+        }
+      ],
+      "relatedProducts": [
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935288709354397698",
+          "upstreamTitle": "White Fiber Environmental Acoustic Cotton",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935289980996067330",
+          "upstreamTitle": "Byer Acoustic Cotton",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935654450389377025",
+          "upstreamTitle": "Damping Vibration Reduction Paint (Water-based)",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935897740296642562",
+          "upstreamTitle": "Polymer Damping Brick",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935899083509915650",
+          "upstreamTitle": "Floor Isolator / Vibration Damper",
+          "localSlug": null,
+          "matched": false
+        }
+      ],
+      "relatedLocalSlugs": [],
+      "scrapedAt": "2026-04-18T15:47:28.831Z"
+    },
+    {
+      "mainSolution": "Environmental Noise Control",
+      "subSolution": "Factories and Industrial Plants acoustic",
+      "slug": "factories-and-industrial-plants-acoustic",
+      "group": "environmental-noise-control",
+      "sourceUrl": "https://www.soundbox-sys.com/solution/Factories%20and%20Industrial%20Plants-acoustic",
+      "title": "Factories and Industrial Plants acoustic",
+      "pageTitle": "Solution Details - Soundbox",
+      "description": "SoundBox solution details page",
+      "heroImage": "/solutions2/environmental-noise-control/factories-and-industrial-plants-acoustic/images/hero.webp",
+      "images": [
+        {
+          "file": "images/hero.webp",
+          "publicPath": "/solutions2/environmental-noise-control/factories-and-industrial-plants-acoustic/images/hero.webp",
+          "alt": "1929796907379957762",
+          "role": "hero",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/%E5%B7%A5%E5%8E%82%E9%99%8D%E5%99%AA_01%E6%8B%B7%E8%B4%9D_1761789665128.webp"
+        },
+        {
+          "file": "images/content-001.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/factories-and-industrial-plants-acoustic/images/content-001.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E5%B7%A5%E5%8E%82%E9%99%8D%E5%99%AA_04_1761789674763.jpg"
+        },
+        {
+          "file": "images/content-002.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/factories-and-industrial-plants-acoustic/images/content-002.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E5%B7%A5%E5%8E%82%E9%99%8D%E5%99%AA_07_1761789705834.jpg"
+        },
+        {
+          "file": "images/content-003.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/factories-and-industrial-plants-acoustic/images/content-003.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E5%B7%A5%E5%8E%82%E9%99%8D%E5%99%AA_09_1761789714995.jpg"
+        },
+        {
+          "file": "images/content-004.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/factories-and-industrial-plants-acoustic/images/content-004.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E5%B7%A5%E5%8E%82%E9%99%8D%E5%99%AA_11_1761789728858.jpg"
+        },
+        {
+          "file": "images/content-005.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/factories-and-industrial-plants-acoustic/images/content-005.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E5%B7%A5%E5%8E%82%E9%99%8D%E5%99%AA_14_1761789756892.jpg"
+        },
+        {
+          "file": "images/content-006.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/factories-and-industrial-plants-acoustic/images/content-006.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E5%B7%A5%E5%8E%82%E9%99%8D%E5%99%AA_16_1761789770188.jpg"
+        },
+        {
+          "file": "images/content-007.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/factories-and-industrial-plants-acoustic/images/content-007.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E5%B7%A5%E5%8E%82%E9%99%8D%E5%99%AA_19_1761789780793.jpg"
+        },
+        {
+          "file": "images/content-008.png",
+          "publicPath": "/solutions2/environmental-noise-control/factories-and-industrial-plants-acoustic/images/content-008.png",
+          "alt": "White Fiber Environmental Acoustic Cotton",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/__-1_1750243411988_1761814392026.png"
+        },
+        {
+          "file": "images/content-009.webp",
+          "publicPath": "/solutions2/environmental-noise-control/factories-and-industrial-plants-acoustic/images/content-009.webp",
+          "alt": "Byer Acoustic Cotton",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/bayer-acoustic-cotton_1763103268950.webp"
+        },
+        {
+          "file": "images/content-010.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/factories-and-industrial-plants-acoustic/images/content-010.jpg",
+          "alt": "Damping Vibration Reduction Paint (Water-based)",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/______1750485063285_1761816479340.jpg"
+        },
+        {
+          "file": "images/content-011.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/factories-and-industrial-plants-acoustic/images/content-011.jpg",
+          "alt": "Polymer Damping Brick",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-04_1750410183229_1761818277516.jpg"
+        },
+        {
+          "file": "images/content-012.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/factories-and-industrial-plants-acoustic/images/content-012.jpg",
+          "alt": "Floor Isolator / Vibration Damper",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-02_1750410151666_1761818237260.jpg"
+        }
+      ],
+      "sections": [
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "White Fiber Environmental Acoustic Cotton"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Byer Acoustic Cotton"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Damping Vibration Reduction Paint (Water-based)"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Polymer Damping Brick"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Floor Isolator / Vibration Damper"
+        }
+      ],
+      "relatedProducts": [
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935288709354397698",
+          "upstreamTitle": "White Fiber Environmental Acoustic Cotton",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935289980996067330",
+          "upstreamTitle": "Byer Acoustic Cotton",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935654450389377025",
+          "upstreamTitle": "Damping Vibration Reduction Paint (Water-based)",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935897740296642562",
+          "upstreamTitle": "Polymer Damping Brick",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935899083509915650",
+          "upstreamTitle": "Floor Isolator / Vibration Damper",
+          "localSlug": null,
+          "matched": false
+        }
+      ],
+      "relatedLocalSlugs": [],
+      "scrapedAt": "2026-04-18T15:47:34.492Z"
+    },
+    {
+      "mainSolution": "Environmental Noise Control",
+      "subSolution": "Cooling towers noise control",
+      "slug": "cooling-towers-noise-control",
+      "group": "environmental-noise-control",
+      "sourceUrl": "https://www.soundbox-sys.com/solution/cooling-towers-noise-control",
+      "title": "Cooling towers noise control",
+      "pageTitle": "Solution Details - Soundbox",
+      "description": "SoundBox solution details page",
+      "heroImage": "/solutions2/environmental-noise-control/cooling-towers-noise-control/images/hero.webp",
+      "images": [
+        {
+          "file": "images/hero.webp",
+          "publicPath": "/solutions2/environmental-noise-control/cooling-towers-noise-control/images/hero.webp",
+          "alt": "1929796958579826689",
+          "role": "hero",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/%E5%86%B7%E5%8D%B4%E5%A1%94%E9%99%8D%E5%99%AA_01%E6%8B%B7%E8%B4%9D_1761790214935.webp"
+        },
+        {
+          "file": "images/content-001.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/cooling-towers-noise-control/images/content-001.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E5%86%B7%E5%8D%B4%E5%A1%94%E9%99%8D%E5%99%AA_04_1761790223413.jpg"
+        },
+        {
+          "file": "images/content-002.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/cooling-towers-noise-control/images/content-002.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E5%86%B7%E5%8D%B4%E5%A1%94%E9%99%8D%E5%99%AA_06_1761790231804.jpg"
+        },
+        {
+          "file": "images/content-003.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/cooling-towers-noise-control/images/content-003.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E5%86%B7%E5%8D%B4%E5%A1%94%E9%99%8D%E5%99%AA_07_1761790241799.jpg"
+        },
+        {
+          "file": "images/content-004.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/cooling-towers-noise-control/images/content-004.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E5%86%B7%E5%8D%B4%E5%A1%94%E9%99%8D%E5%99%AA_08_1761790250805.jpg"
+        },
+        {
+          "file": "images/content-005.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/cooling-towers-noise-control/images/content-005.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E5%86%B7%E5%8D%B4%E5%A1%94%E9%99%8D%E5%99%AA_10_1761790260484.jpg"
+        },
+        {
+          "file": "images/content-006.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/cooling-towers-noise-control/images/content-006.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E5%86%B7%E5%8D%B4%E5%A1%94%E9%99%8D%E5%99%AA_11_1761790267427.jpg"
+        },
+        {
+          "file": "images/content-007.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/cooling-towers-noise-control/images/content-007.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E5%86%B7%E5%8D%B4%E5%A1%94%E9%99%8D%E5%99%AA_13_1761790275680.jpg"
+        },
+        {
+          "file": "images/content-008.png",
+          "publicPath": "/solutions2/environmental-noise-control/cooling-towers-noise-control/images/content-008.png",
+          "alt": "White Fiber Environmental Acoustic Cotton",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/__-1_1750243411988_1761814392026.png"
+        },
+        {
+          "file": "images/content-009.webp",
+          "publicPath": "/solutions2/environmental-noise-control/cooling-towers-noise-control/images/content-009.webp",
+          "alt": "Byer Acoustic Cotton",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/bayer-acoustic-cotton_1763103268950.webp"
+        },
+        {
+          "file": "images/content-010.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/cooling-towers-noise-control/images/content-010.jpg",
+          "alt": "Damping Vibration Reduction Paint (Water-based)",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/______1750485063285_1761816479340.jpg"
+        },
+        {
+          "file": "images/content-011.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/cooling-towers-noise-control/images/content-011.jpg",
+          "alt": "Polymer Damping Brick",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-04_1750410183229_1761818277516.jpg"
+        },
+        {
+          "file": "images/content-012.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/cooling-towers-noise-control/images/content-012.jpg",
+          "alt": "Floor Isolator / Vibration Damper",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-02_1750410151666_1761818237260.jpg"
+        }
+      ],
+      "sections": [
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "White Fiber Environmental Acoustic Cotton"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Byer Acoustic Cotton"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Damping Vibration Reduction Paint (Water-based)"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Polymer Damping Brick"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Floor Isolator / Vibration Damper"
+        }
+      ],
+      "relatedProducts": [
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935288709354397698",
+          "upstreamTitle": "White Fiber Environmental Acoustic Cotton",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935289980996067330",
+          "upstreamTitle": "Byer Acoustic Cotton",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935654450389377025",
+          "upstreamTitle": "Damping Vibration Reduction Paint (Water-based)",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935897740296642562",
+          "upstreamTitle": "Polymer Damping Brick",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935899083509915650",
+          "upstreamTitle": "Floor Isolator / Vibration Damper",
+          "localSlug": null,
+          "matched": false
+        }
+      ],
+      "relatedLocalSlugs": [],
+      "scrapedAt": "2026-04-18T15:47:39.237Z"
+    },
+    {
+      "mainSolution": "Environmental Noise Control",
+      "subSolution": "Piping and duct systems acoustic",
+      "slug": "piping-and-duct-systems-acoustic",
+      "group": "environmental-noise-control",
+      "sourceUrl": "https://www.soundbox-sys.com/solution/piping-and-duct-systems-acoustic",
+      "title": "Piping and duct systems acoustic",
+      "pageTitle": "Solution Details - Soundbox",
+      "description": "SoundBox solution details page",
+      "heroImage": "/solutions2/environmental-noise-control/piping-and-duct-systems-acoustic/images/hero.webp",
+      "images": [
+        {
+          "file": "images/hero.webp",
+          "publicPath": "/solutions2/environmental-noise-control/piping-and-duct-systems-acoustic/images/hero.webp",
+          "alt": "1929797008580124673",
+          "role": "hero",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/%E7%AE%A1%E9%81%93%E9%99%8D%E5%99%AA_01%E6%8B%B7%E8%B4%9D_1761789977204.webp"
+        },
+        {
+          "file": "images/content-001.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/piping-and-duct-systems-acoustic/images/content-001.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E7%AE%A1%E9%81%93%E9%99%8D%E5%99%AA_04_1761789990074.jpg"
+        },
+        {
+          "file": "images/content-002.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/piping-and-duct-systems-acoustic/images/content-002.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E7%AE%A1%E9%81%93%E9%99%8D%E5%99%AA_07_1761790006944.jpg"
+        },
+        {
+          "file": "images/content-003.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/piping-and-duct-systems-acoustic/images/content-003.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E7%AE%A1%E9%81%93%E9%99%8D%E5%99%AA_08_1761790015249.jpg"
+        },
+        {
+          "file": "images/content-004.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/piping-and-duct-systems-acoustic/images/content-004.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E7%AE%A1%E9%81%93%E9%99%8D%E5%99%AA_10_1761790025256.jpg"
+        },
+        {
+          "file": "images/content-005.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/piping-and-duct-systems-acoustic/images/content-005.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E7%AE%A1%E9%81%93%E9%99%8D%E5%99%AA_12_1761790036398.jpg"
+        },
+        {
+          "file": "images/content-006.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/piping-and-duct-systems-acoustic/images/content-006.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E7%AE%A1%E9%81%93%E9%99%8D%E5%99%AA_14_1761790063083.jpg"
+        },
+        {
+          "file": "images/content-007.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/piping-and-duct-systems-acoustic/images/content-007.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E7%AE%A1%E9%81%93%E9%99%8D%E5%99%AA_16_1761790076458.jpg"
+        },
+        {
+          "file": "images/content-008.png",
+          "publicPath": "/solutions2/environmental-noise-control/piping-and-duct-systems-acoustic/images/content-008.png",
+          "alt": "White Fiber Environmental Acoustic Cotton",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/__-1_1750243411988_1761814392026.png"
+        },
+        {
+          "file": "images/content-009.webp",
+          "publicPath": "/solutions2/environmental-noise-control/piping-and-duct-systems-acoustic/images/content-009.webp",
+          "alt": "Byer Acoustic Cotton",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/bayer-acoustic-cotton_1763103268950.webp"
+        },
+        {
+          "file": "images/content-010.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/piping-and-duct-systems-acoustic/images/content-010.jpg",
+          "alt": "Damping Vibration Reduction Paint (Water-based)",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/______1750485063285_1761816479340.jpg"
+        },
+        {
+          "file": "images/content-011.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/piping-and-duct-systems-acoustic/images/content-011.jpg",
+          "alt": "Polymer Damping Brick",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-04_1750410183229_1761818277516.jpg"
+        },
+        {
+          "file": "images/content-012.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/piping-and-duct-systems-acoustic/images/content-012.jpg",
+          "alt": "Floor Isolator / Vibration Damper",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-02_1750410151666_1761818237260.jpg"
+        }
+      ],
+      "sections": [
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "White Fiber Environmental Acoustic Cotton"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Byer Acoustic Cotton"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Damping Vibration Reduction Paint (Water-based)"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Polymer Damping Brick"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Floor Isolator / Vibration Damper"
+        }
+      ],
+      "relatedProducts": [
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935288709354397698",
+          "upstreamTitle": "White Fiber Environmental Acoustic Cotton",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935289980996067330",
+          "upstreamTitle": "Byer Acoustic Cotton",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935654450389377025",
+          "upstreamTitle": "Damping Vibration Reduction Paint (Water-based)",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935897740296642562",
+          "upstreamTitle": "Polymer Damping Brick",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935899083509915650",
+          "upstreamTitle": "Floor Isolator / Vibration Damper",
+          "localSlug": null,
+          "matched": false
+        }
+      ],
+      "relatedLocalSlugs": [],
+      "scrapedAt": "2026-04-18T15:47:44.077Z"
+    },
+    {
+      "mainSolution": "Environmental Noise Control",
+      "subSolution": "Subways noise control",
+      "slug": "subways-noise-control",
+      "group": "environmental-noise-control",
+      "sourceUrl": "https://www.soundbox-sys.com/solution/subways-noise-control",
+      "title": "Subways noise control",
+      "pageTitle": "Solution Details - Soundbox",
+      "description": "SoundBox solution details page",
+      "heroImage": "/solutions2/environmental-noise-control/subways-noise-control/images/hero.webp",
+      "images": [
+        {
+          "file": "images/hero.webp",
+          "publicPath": "/solutions2/environmental-noise-control/subways-noise-control/images/hero.webp",
+          "alt": "1929797058232295425",
+          "role": "hero",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/subway_01_1761882368788.webp"
+        },
+        {
+          "file": "images/content-001.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/subways-noise-control/images/content-001.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/subway_04_1761882386770.jpg"
+        },
+        {
+          "file": "images/content-002.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/subways-noise-control/images/content-002.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/subway_08_1761882396947.jpg"
+        },
+        {
+          "file": "images/content-003.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/subways-noise-control/images/content-003.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/subway_10_1761882403552.jpg"
+        },
+        {
+          "file": "images/content-004.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/subways-noise-control/images/content-004.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/subway_12_1761882411996.jpg"
+        },
+        {
+          "file": "images/content-005.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/subways-noise-control/images/content-005.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/subway_16_1761882419576.jpg"
+        },
+        {
+          "file": "images/content-006.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/subways-noise-control/images/content-006.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/subway_17_1761882427279.jpg"
+        },
+        {
+          "file": "images/content-007.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/subways-noise-control/images/content-007.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/subway_18_1761882436740.jpg"
+        },
+        {
+          "file": "images/content-008.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/subways-noise-control/images/content-008.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/subway_19_1761882442855.jpg"
+        },
+        {
+          "file": "images/content-009.png",
+          "publicPath": "/solutions2/environmental-noise-control/subways-noise-control/images/content-009.png",
+          "alt": "White Fiber Environmental Acoustic Cotton",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/__-1_1750243411988_1761814392026.png"
+        },
+        {
+          "file": "images/content-010.webp",
+          "publicPath": "/solutions2/environmental-noise-control/subways-noise-control/images/content-010.webp",
+          "alt": "Byer Acoustic Cotton",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/bayer-acoustic-cotton_1763103268950.webp"
+        },
+        {
+          "file": "images/content-011.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/subways-noise-control/images/content-011.jpg",
+          "alt": "Damping Vibration Reduction Paint (Water-based)",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/______1750485063285_1761816479340.jpg"
+        },
+        {
+          "file": "images/content-012.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/subways-noise-control/images/content-012.jpg",
+          "alt": "Polymer Damping Brick",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-04_1750410183229_1761818277516.jpg"
+        },
+        {
+          "file": "images/content-013.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/subways-noise-control/images/content-013.jpg",
+          "alt": "Floor Isolator / Vibration Damper",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-02_1750410151666_1761818237260.jpg"
+        }
+      ],
+      "sections": [
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "White Fiber Environmental Acoustic Cotton"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Byer Acoustic Cotton"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Damping Vibration Reduction Paint (Water-based)"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Polymer Damping Brick"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Floor Isolator / Vibration Damper"
+        }
+      ],
+      "relatedProducts": [
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935288709354397698",
+          "upstreamTitle": "White Fiber Environmental Acoustic Cotton",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935289980996067330",
+          "upstreamTitle": "Byer Acoustic Cotton",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935654450389377025",
+          "upstreamTitle": "Damping Vibration Reduction Paint (Water-based)",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935897740296642562",
+          "upstreamTitle": "Polymer Damping Brick",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935899083509915650",
+          "upstreamTitle": "Floor Isolator / Vibration Damper",
+          "localSlug": null,
+          "matched": false
+        }
+      ],
+      "relatedLocalSlugs": [],
+      "scrapedAt": "2026-04-18T15:47:49.010Z"
+    },
+    {
+      "mainSolution": "Environmental Noise Control",
+      "subSolution": "Tunnels noise control",
+      "slug": "tunnels-noise-control",
+      "group": "environmental-noise-control",
+      "sourceUrl": "https://www.soundbox-sys.com/solution/tunnels-noise-control",
+      "title": "Tunnels noise control",
+      "pageTitle": "Solution Details - Soundbox",
+      "description": "SoundBox solution details page",
+      "heroImage": "/solutions2/environmental-noise-control/tunnels-noise-control/images/hero.webp",
+      "images": [
+        {
+          "file": "images/hero.webp",
+          "publicPath": "/solutions2/environmental-noise-control/tunnels-noise-control/images/hero.webp",
+          "alt": "1929797102964547586",
+          "role": "hero",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/%E9%9A%A7%E9%81%93%E9%99%8D%E5%99%AA_01%E6%8B%B7%E8%B4%9D_1761790571504.webp"
+        },
+        {
+          "file": "images/content-001.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/tunnels-noise-control/images/content-001.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E9%9A%A7%E9%81%93%E9%99%8D%E5%99%AA_04_1761790576981.jpg"
+        },
+        {
+          "file": "images/content-002.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/tunnels-noise-control/images/content-002.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E9%9A%A7%E9%81%93%E9%99%8D%E5%99%AA_07_1761790584704.jpg"
+        },
+        {
+          "file": "images/content-003.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/tunnels-noise-control/images/content-003.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E9%9A%A7%E9%81%93%E9%99%8D%E5%99%AA_09_1761790592003.jpg"
+        },
+        {
+          "file": "images/content-004.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/tunnels-noise-control/images/content-004.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E9%9A%A7%E9%81%93%E9%99%8D%E5%99%AA_11_1761790601559.jpg"
+        },
+        {
+          "file": "images/content-005.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/tunnels-noise-control/images/content-005.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E9%9A%A7%E9%81%93%E9%99%8D%E5%99%AA_12_1761790607423.jpg"
+        },
+        {
+          "file": "images/content-006.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/tunnels-noise-control/images/content-006.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E9%9A%A7%E9%81%93%E9%99%8D%E5%99%AA_13_1761790615016.jpg"
+        },
+        {
+          "file": "images/content-007.png",
+          "publicPath": "/solutions2/environmental-noise-control/tunnels-noise-control/images/content-007.png",
+          "alt": "White Fiber Environmental Acoustic Cotton",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/__-1_1750243411988_1761814392026.png"
+        },
+        {
+          "file": "images/content-008.webp",
+          "publicPath": "/solutions2/environmental-noise-control/tunnels-noise-control/images/content-008.webp",
+          "alt": "Byer Acoustic Cotton",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/bayer-acoustic-cotton_1763103268950.webp"
+        },
+        {
+          "file": "images/content-009.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/tunnels-noise-control/images/content-009.jpg",
+          "alt": "Damping Vibration Reduction Paint (Water-based)",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/______1750485063285_1761816479340.jpg"
+        },
+        {
+          "file": "images/content-010.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/tunnels-noise-control/images/content-010.jpg",
+          "alt": "Polymer Damping Brick",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-04_1750410183229_1761818277516.jpg"
+        },
+        {
+          "file": "images/content-011.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/tunnels-noise-control/images/content-011.jpg",
+          "alt": "Floor Isolator / Vibration Damper",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-02_1750410151666_1761818237260.jpg"
+        }
+      ],
+      "sections": [
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "White Fiber Environmental Acoustic Cotton"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Byer Acoustic Cotton"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Damping Vibration Reduction Paint (Water-based)"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Polymer Damping Brick"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Floor Isolator / Vibration Damper"
+        }
+      ],
+      "relatedProducts": [
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935288709354397698",
+          "upstreamTitle": "White Fiber Environmental Acoustic Cotton",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935289980996067330",
+          "upstreamTitle": "Byer Acoustic Cotton",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935654450389377025",
+          "upstreamTitle": "Damping Vibration Reduction Paint (Water-based)",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935897740296642562",
+          "upstreamTitle": "Polymer Damping Brick",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935899083509915650",
+          "upstreamTitle": "Floor Isolator / Vibration Damper",
+          "localSlug": null,
+          "matched": false
+        }
+      ],
+      "relatedLocalSlugs": [],
+      "scrapedAt": "2026-04-18T15:47:53.753Z"
+    },
+    {
+      "mainSolution": "Environmental Noise Control",
+      "subSolution": "Highways noise control",
+      "slug": "highways-noise-control",
+      "group": "environmental-noise-control",
+      "sourceUrl": "https://www.soundbox-sys.com/solution/highways-noise-control",
+      "title": "Highways noise control",
+      "pageTitle": "Solution Details - Soundbox",
+      "description": "SoundBox solution details page",
+      "heroImage": "/solutions2/environmental-noise-control/highways-noise-control/images/hero.webp",
+      "images": [
+        {
+          "file": "images/hero.webp",
+          "publicPath": "/solutions2/environmental-noise-control/highways-noise-control/images/hero.webp",
+          "alt": "1929797147185094658",
+          "role": "hero",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/%E5%85%AC%E8%B7%AF%E9%99%8D%E5%99%AA_01%E6%8B%B7%E8%B4%9D_1761789857539.webp"
+        },
+        {
+          "file": "images/content-001.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/highways-noise-control/images/content-001.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E5%85%AC%E8%B7%AF%E9%99%8D%E5%99%AA_04_1761789862864.jpg"
+        },
+        {
+          "file": "images/content-002.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/highways-noise-control/images/content-002.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E5%85%AC%E8%B7%AF%E9%99%8D%E5%99%AA_06_1761789871096.jpg"
+        },
+        {
+          "file": "images/content-003.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/highways-noise-control/images/content-003.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E5%85%AC%E8%B7%AF%E9%99%8D%E5%99%AA_07_1761789886298.jpg"
+        },
+        {
+          "file": "images/content-004.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/highways-noise-control/images/content-004.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E5%85%AC%E8%B7%AF%E9%99%8D%E5%99%AA_08_1761789901634.jpg"
+        },
+        {
+          "file": "images/content-005.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/highways-noise-control/images/content-005.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E5%85%AC%E8%B7%AF%E9%99%8D%E5%99%AA_11_1761789922183.jpg"
+        },
+        {
+          "file": "images/content-006.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/highways-noise-control/images/content-006.jpg",
+          "alt": "",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E5%85%AC%E8%B7%AF%E9%99%8D%E5%99%AA_12_1761789928627.jpg"
+        },
+        {
+          "file": "images/content-007.png",
+          "publicPath": "/solutions2/environmental-noise-control/highways-noise-control/images/content-007.png",
+          "alt": "White Fiber Environmental Acoustic Cotton",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/__-1_1750243411988_1761814392026.png"
+        },
+        {
+          "file": "images/content-008.webp",
+          "publicPath": "/solutions2/environmental-noise-control/highways-noise-control/images/content-008.webp",
+          "alt": "Byer Acoustic Cotton",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/bayer-acoustic-cotton_1763103268950.webp"
+        },
+        {
+          "file": "images/content-009.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/highways-noise-control/images/content-009.jpg",
+          "alt": "Damping Vibration Reduction Paint (Water-based)",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/______1750485063285_1761816479340.jpg"
+        },
+        {
+          "file": "images/content-010.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/highways-noise-control/images/content-010.jpg",
+          "alt": "Polymer Damping Brick",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-04_1750410183229_1761818277516.jpg"
+        },
+        {
+          "file": "images/content-011.jpg",
+          "publicPath": "/solutions2/environmental-noise-control/highways-noise-control/images/content-011.jpg",
+          "alt": "Floor Isolator / Vibration Damper",
+          "role": "content",
+          "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-02_1750410151666_1761818237260.jpg"
+        }
+      ],
+      "sections": [
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "White Fiber Environmental Acoustic Cotton"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Byer Acoustic Cotton"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Damping Vibration Reduction Paint (Water-based)"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Polymer Damping Brick"
+        },
+        {
+          "type": "h3",
+          "level": 3,
+          "text": "Floor Isolator / Vibration Damper"
+        }
+      ],
+      "relatedProducts": [
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935288709354397698",
+          "upstreamTitle": "White Fiber Environmental Acoustic Cotton",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935289980996067330",
+          "upstreamTitle": "Byer Acoustic Cotton",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935654450389377025",
+          "upstreamTitle": "Damping Vibration Reduction Paint (Water-based)",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935897740296642562",
+          "upstreamTitle": "Polymer Damping Brick",
+          "localSlug": null,
+          "matched": false
+        },
+        {
+          "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935899083509915650",
+          "upstreamTitle": "Floor Isolator / Vibration Damper",
+          "localSlug": null,
+          "matched": false
+        }
+      ],
+      "relatedLocalSlugs": [],
+      "scrapedAt": "2026-04-18T15:47:58.543Z"
+    }
+  ]
+}

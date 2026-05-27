@@ -1,0 +1,124 @@
+{
+  "mainSolution": "Architectural Acoustics",
+  "subSolution": "Dining areas acoustic",
+  "slug": "dining-areas-acoustic",
+  "group": "architectural-acoustics",
+  "sourceUrl": "https://www.soundbox-sys.com/solution/dining-areas-acoustic",
+  "title": "Dining areas acoustic",
+  "pageTitle": "Solution Details - Soundbox",
+  "description": "SoundBox solution details page",
+  "heroImage": "/solutions2/architectural-acoustics/dining-areas-acoustic/images/hero.webp",
+  "images": [
+    {
+      "file": "images/hero.webp",
+      "publicPath": "/solutions2/architectural-acoustics/dining-areas-acoustic/images/hero.webp",
+      "alt": "1937462578243411969",
+      "role": "hero",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/soundbox-restaurant-noise-reduction_1761735167624.WEBP"
+    },
+    {
+      "file": "images/content-001.webp",
+      "publicPath": "/solutions2/architectural-acoustics/dining-areas-acoustic/images/content-001.webp",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/soundproof-ceiling-wall-soft-decoration_1761735186593.webp"
+    },
+    {
+      "file": "images/content-002.webp",
+      "publicPath": "/solutions2/architectural-acoustics/dining-areas-acoustic/images/content-002.webp",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/restaurant-ceiling-sound-absorbing_1761735211227.webp"
+    },
+    {
+      "file": "images/content-003.webp",
+      "publicPath": "/solutions2/architectural-acoustics/dining-areas-acoustic/images/content-003.webp",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/ceiling-sound-absorbing-material_1761735236254.webp"
+    },
+    {
+      "file": "images/content-004.webp",
+      "publicPath": "/solutions2/architectural-acoustics/dining-areas-acoustic/images/content-004.webp",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/indoor-sound-absorbing-materials_1761735255922.WEBP"
+    },
+    {
+      "file": "images/content-005.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/dining-areas-acoustic/images/content-005.jpg",
+      "alt": "Array Acoustic Baffle",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_116_1750332674056_1761813747555.jpg"
+    },
+    {
+      "file": "images/content-006.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/dining-areas-acoustic/images/content-006.jpg",
+      "alt": "Matrix Acoustic Baffle",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118_1750332636639_1761813590850.jpg"
+    },
+    {
+      "file": "images/content-007.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/dining-areas-acoustic/images/content-007.jpg",
+      "alt": "Customized shape fabric acoustic panel",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/MT30R_1761813952701.jpg"
+    },
+    {
+      "file": "images/content-008.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/dining-areas-acoustic/images/content-008.jpg",
+      "alt": "Matrix Acoustic Baffle",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_116-1_1750382285973_1761813578061.jpg"
+    }
+  ],
+  "sections": [
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Array Acoustic Baffle"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Matrix Acoustic Baffle"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Customized shape fabric acoustic panel"
+    }
+  ],
+  "relatedProducts": [
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935253494081241090",
+      "upstreamTitle": "Array Acoustic Baffle",
+      "localSlug": "acoustic-baffles",
+      "matched": true
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935256128322256898",
+      "upstreamTitle": "Matrix Acoustic Baffle",
+      "localSlug": "acoustic-baffles",
+      "matched": true
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935865613228236802",
+      "upstreamTitle": "Customized shape fabric acoustic panel",
+      "localSlug": "fabric-acoustic-panels",
+      "matched": true
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935871158769213442",
+      "upstreamTitle": "Matrix Acoustic Baffle",
+      "localSlug": "acoustic-baffles",
+      "matched": true
+    }
+  ],
+  "relatedLocalSlugs": [
+    "acoustic-baffles",
+    "fabric-acoustic-panels"
+  ],
+  "scrapedAt": "2026-04-18T15:45:40.518Z"
+}

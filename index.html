@@ -1,0 +1,23 @@
+
+  <!DOCTYPE html>
+  <html lang="en">
+    <head>
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <title>Sonic Hive Acoustics</title>
+      <link rel="icon" type="image/png" href="/src/app/assets/logo.png" />
+      <!-- Preload critical fonts for instant rendering -->
+      <link rel="preload" href="/fonts/inter-400.ttf" as="font" type="font/ttf" crossorigin />
+      <link rel="preload" href="/fonts/inter-700.ttf" as="font" type="font/ttf" crossorigin />
+      <link rel="preload" href="/fonts/space-grotesk-700.woff2" as="font" type="font/woff2" crossorigin />
+      <script>
+        (function(){var t=localStorage.getItem('theme');if(t==='dark')document.documentElement.classList.add('dark')})();
+      </script>
+    </head>
+
+    <body>
+      <div id="root"></div>
+      <script type="module" src="/src/main.tsx"></script>
+    </body>
+  </html>
+  

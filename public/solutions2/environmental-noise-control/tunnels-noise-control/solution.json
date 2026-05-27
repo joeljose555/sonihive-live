@@ -1,0 +1,158 @@
+{
+  "mainSolution": "Environmental Noise Control",
+  "subSolution": "Tunnels noise control",
+  "slug": "tunnels-noise-control",
+  "group": "environmental-noise-control",
+  "sourceUrl": "https://www.soundbox-sys.com/solution/tunnels-noise-control",
+  "title": "Tunnels noise control",
+  "pageTitle": "Solution Details - Soundbox",
+  "description": "SoundBox solution details page",
+  "heroImage": "/solutions2/environmental-noise-control/tunnels-noise-control/images/hero.webp",
+  "images": [
+    {
+      "file": "images/hero.webp",
+      "publicPath": "/solutions2/environmental-noise-control/tunnels-noise-control/images/hero.webp",
+      "alt": "1929797102964547586",
+      "role": "hero",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/%E9%9A%A7%E9%81%93%E9%99%8D%E5%99%AA_01%E6%8B%B7%E8%B4%9D_1761790571504.webp"
+    },
+    {
+      "file": "images/content-001.jpg",
+      "publicPath": "/solutions2/environmental-noise-control/tunnels-noise-control/images/content-001.jpg",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E9%9A%A7%E9%81%93%E9%99%8D%E5%99%AA_04_1761790576981.jpg"
+    },
+    {
+      "file": "images/content-002.jpg",
+      "publicPath": "/solutions2/environmental-noise-control/tunnels-noise-control/images/content-002.jpg",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E9%9A%A7%E9%81%93%E9%99%8D%E5%99%AA_07_1761790584704.jpg"
+    },
+    {
+      "file": "images/content-003.jpg",
+      "publicPath": "/solutions2/environmental-noise-control/tunnels-noise-control/images/content-003.jpg",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E9%9A%A7%E9%81%93%E9%99%8D%E5%99%AA_09_1761790592003.jpg"
+    },
+    {
+      "file": "images/content-004.jpg",
+      "publicPath": "/solutions2/environmental-noise-control/tunnels-noise-control/images/content-004.jpg",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E9%9A%A7%E9%81%93%E9%99%8D%E5%99%AA_11_1761790601559.jpg"
+    },
+    {
+      "file": "images/content-005.jpg",
+      "publicPath": "/solutions2/environmental-noise-control/tunnels-noise-control/images/content-005.jpg",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E9%9A%A7%E9%81%93%E9%99%8D%E5%99%AA_12_1761790607423.jpg"
+    },
+    {
+      "file": "images/content-006.jpg",
+      "publicPath": "/solutions2/environmental-noise-control/tunnels-noise-control/images/content-006.jpg",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/%E9%9A%A7%E9%81%93%E9%99%8D%E5%99%AA_13_1761790615016.jpg"
+    },
+    {
+      "file": "images/content-007.png",
+      "publicPath": "/solutions2/environmental-noise-control/tunnels-noise-control/images/content-007.png",
+      "alt": "White Fiber Environmental Acoustic Cotton",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/__-1_1750243411988_1761814392026.png"
+    },
+    {
+      "file": "images/content-008.webp",
+      "publicPath": "/solutions2/environmental-noise-control/tunnels-noise-control/images/content-008.webp",
+      "alt": "Byer Acoustic Cotton",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/bayer-acoustic-cotton_1763103268950.webp"
+    },
+    {
+      "file": "images/content-009.jpg",
+      "publicPath": "/solutions2/environmental-noise-control/tunnels-noise-control/images/content-009.jpg",
+      "alt": "Damping Vibration Reduction Paint (Water-based)",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/______1750485063285_1761816479340.jpg"
+    },
+    {
+      "file": "images/content-010.jpg",
+      "publicPath": "/solutions2/environmental-noise-control/tunnels-noise-control/images/content-010.jpg",
+      "alt": "Polymer Damping Brick",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-04_1750410183229_1761818277516.jpg"
+    },
+    {
+      "file": "images/content-011.jpg",
+      "publicPath": "/solutions2/environmental-noise-control/tunnels-noise-control/images/content-011.jpg",
+      "alt": "Floor Isolator / Vibration Damper",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-02_1750410151666_1761818237260.jpg"
+    }
+  ],
+  "sections": [
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "White Fiber Environmental Acoustic Cotton"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Byer Acoustic Cotton"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Damping Vibration Reduction Paint (Water-based)"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Polymer Damping Brick"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Floor Isolator / Vibration Damper"
+    }
+  ],
+  "relatedProducts": [
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935288709354397698",
+      "upstreamTitle": "White Fiber Environmental Acoustic Cotton",
+      "localSlug": null,
+      "matched": false
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935289980996067330",
+      "upstreamTitle": "Byer Acoustic Cotton",
+      "localSlug": null,
+      "matched": false
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935654450389377025",
+      "upstreamTitle": "Damping Vibration Reduction Paint (Water-based)",
+      "localSlug": null,
+      "matched": false
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935897740296642562",
+      "upstreamTitle": "Polymer Damping Brick",
+      "localSlug": null,
+      "matched": false
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935899083509915650",
+      "upstreamTitle": "Floor Isolator / Vibration Damper",
+      "localSlug": null,
+      "matched": false
+    }
+  ],
+  "relatedLocalSlugs": [],
+  "scrapedAt": "2026-04-18T15:47:53.753Z"
+}

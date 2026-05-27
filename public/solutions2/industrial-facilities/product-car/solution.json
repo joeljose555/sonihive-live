@@ -1,0 +1,156 @@
+{
+  "mainSolution": "Industrial Facilities",
+  "subSolution": "Product car",
+  "slug": "product-car",
+  "group": "industrial-facilities",
+  "sourceUrl": "https://www.soundbox-sys.com/html/product-car",
+  "title": "SoundBox - Car NVH",
+  "pageTitle": "SoundBox - Car NVH",
+  "description": "NVH is an important indicator for measuring automotive quality and a focus of international automobile manufacturers. It is a complex and difficult-to-solve comprehensive technical problem. Soundbox has 15 years of acoustic practice and has accumulated an experienced team in analyzing and solving various noise and vibration issues. Based on powerful acoustic simulation technology, we manufacture high-performance complete materials most conducive to solving NVH. These materials consist of energy-absorbing materials with significant IIR damping factors, Bayer acoustic cotton manufactured using electrostatic ultrafine spinning technology, and air-sealing materials. Such equipment is undoubtedly prepared to absorb body sheet metal vibration noise and consume cavity layer noise in the body structure. Similarly, it has strict requirements for ecology, environmental protection, and safety, which is Soundbox's value mission.",
+  "heroImage": "/solutions2/industrial-facilities/product-car/images/hero.jpg",
+  "images": [
+    {
+      "file": "images/hero.jpg",
+      "publicPath": "/solutions2/industrial-facilities/product-car/images/hero.jpg",
+      "alt": "Car NVH",
+      "role": "hero",
+      "sourceUrl": "https://www.soundbox-sys.com/images/product/car/car_header.jpg"
+    },
+    {
+      "file": "images/content-001.webp",
+      "publicPath": "/solutions2/industrial-facilities/product-car/images/content-001.webp",
+      "alt": "Car NVH",
+      "role": "content",
+      "sourceUrl": "https://www.soundbox-sys.com/images/product/car/car_nvh.webp"
+    },
+    {
+      "file": "images/content-002.webp",
+      "publicPath": "/solutions2/industrial-facilities/product-car/images/content-002.webp",
+      "alt": "Car NVH",
+      "role": "content",
+      "sourceUrl": "https://www.soundbox-sys.com/images/product/car/car_composition.webp"
+    },
+    {
+      "file": "images/content-003.jpg",
+      "publicPath": "/solutions2/industrial-facilities/product-car/images/content-003.jpg",
+      "alt": "Car NVH",
+      "role": "content",
+      "sourceUrl": "https://www.soundbox-sys.com/images/product/car/car_set.jpg"
+    },
+    {
+      "file": "images/content-004.jpg",
+      "publicPath": "/solutions2/industrial-facilities/product-car/images/content-004.jpg",
+      "alt": "Car NVH",
+      "role": "content",
+      "sourceUrl": "https://www.soundbox-sys.com/images/product/car/comparative_testing.jpg"
+    },
+    {
+      "file": "images/content-005.jpg",
+      "publicPath": "/solutions2/industrial-facilities/product-car/images/content-005.jpg",
+      "alt": "Car NVH",
+      "role": "content",
+      "sourceUrl": "https://www.soundbox-sys.com/images/product/car/danping_material.jpg"
+    },
+    {
+      "file": "images/content-006.jpg",
+      "publicPath": "/solutions2/industrial-facilities/product-car/images/content-006.jpg",
+      "alt": "Chassis Kit",
+      "role": "content",
+      "sourceUrl": "https://www.soundbox-sys.com/images/product/car/chassis_kit.jpg"
+    },
+    {
+      "file": "images/content-007.jpg",
+      "publicPath": "/solutions2/industrial-facilities/product-car/images/content-007.jpg",
+      "alt": "Trunk Kit",
+      "role": "content",
+      "sourceUrl": "https://www.soundbox-sys.com/images/product/car/trunk_kit.jpg"
+    },
+    {
+      "file": "images/content-008.jpg",
+      "publicPath": "/solutions2/industrial-facilities/product-car/images/content-008.jpg",
+      "alt": "Four Wheels Kit",
+      "role": "content",
+      "sourceUrl": "https://www.soundbox-sys.com/images/product/car/four_wheel_kit.jpg"
+    },
+    {
+      "file": "images/content-009.jpg",
+      "publicPath": "/solutions2/industrial-facilities/product-car/images/content-009.jpg",
+      "alt": "Four Doors Kit",
+      "role": "content",
+      "sourceUrl": "https://www.soundbox-sys.com/images/product/car/four_door.jpg"
+    },
+    {
+      "file": "images/content-010.jpg",
+      "publicPath": "/solutions2/industrial-facilities/product-car/images/content-010.jpg",
+      "alt": "Hood Kit",
+      "role": "content",
+      "sourceUrl": "https://www.soundbox-sys.com/images/product/car/hood_kit.jpg"
+    },
+    {
+      "file": "images/content-011.jpg",
+      "publicPath": "/solutions2/industrial-facilities/product-car/images/content-011.jpg",
+      "alt": "Sealing Kit",
+      "role": "content",
+      "sourceUrl": "https://www.soundbox-sys.com/images/product/car/sealant_strip_kit.jpg"
+    },
+    {
+      "file": "images/content-012.webp",
+      "publicPath": "/solutions2/industrial-facilities/product-car/images/content-012.webp",
+      "alt": "Car NVH",
+      "role": "content",
+      "sourceUrl": "https://www.soundbox-sys.com/images/product/car/installation_case.webp"
+    }
+  ],
+  "sections": [
+    {
+      "type": "p",
+      "level": 0,
+      "text": "NVH is an important indicator for measuring automotive quality and a focus of international automobile manufacturers. It is a complex and difficult-to-solve comprehensive technical problem. Soundbox has 15 years of acoustic practice and has accumulated an experienced team in analyzing and solving various noise and vibration issues. Based on powerful acoustic simulation technology, we manufacture high-performance complete materials most conducive to solving NVH. These materials consist of energy-absorbing materials with significant IIR damping factors, Bayer acoustic cotton manufactured using electrostatic ultrafine spinning technology, and air-sealing materials. Such equipment is undoubtedly prepared to absorb body sheet metal vibration noise and consume cavity layer noise in the body structure. Similarly, it has strict requirements for ecology, environmental protection, and safety, which is Soundbox's value mission."
+    },
+    {
+      "type": "p",
+      "level": 0,
+      "text": "Engineers are using a microphone array to measure the noise position in the engine compartment of this SUV while driving. Only after accurately locating the noise source can corresponding sound insulation and noise reduction countermeasures be adopted."
+    }
+  ],
+  "relatedProducts": [
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935599830622638082",
+      "upstreamTitle": "Chassis Kit",
+      "localSlug": null,
+      "matched": false
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935937716401004545",
+      "upstreamTitle": "Front and Rear Trunk Kit",
+      "localSlug": null,
+      "matched": false
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935600918042087426",
+      "upstreamTitle": "Four-Wheel Kit",
+      "localSlug": null,
+      "matched": false
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935602572355276802",
+      "upstreamTitle": "Four-Door Kit",
+      "localSlug": null,
+      "matched": false
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935605139151884290",
+      "upstreamTitle": "Engine Hood Kit",
+      "localSlug": null,
+      "matched": false
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1936347643975278594",
+      "upstreamTitle": "Sealing Kit",
+      "localSlug": null,
+      "matched": false
+    }
+  ],
+  "relatedLocalSlugs": [],
+  "scrapedAt": "2026-04-18T15:46:49.643Z"
+}

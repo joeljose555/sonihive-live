@@ -1,0 +1,225 @@
+{
+  "mainSolution": "Architectural Acoustics",
+  "subSolution": "Commercial Office",
+  "slug": "commercial-office-acoustic",
+  "group": "architectural-acoustics",
+  "sourceUrl": "https://www.soundbox-sys.com/solution/commercial-office-acoustic",
+  "title": "Commercial Office",
+  "pageTitle": "Solution Details - Soundbox",
+  "description": "SoundBox solution details page",
+  "heroImage": "/solutions2/architectural-acoustics/commercial-office-acoustic/images/hero.webp",
+  "images": [
+    {
+      "file": "images/hero.webp",
+      "publicPath": "/solutions2/architectural-acoustics/commercial-office-acoustic/images/hero.webp",
+      "alt": "1929796623811452930",
+      "role": "hero",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/soundproof-office-booth_1761734833012.WEBP"
+    },
+    {
+      "file": "images/content-001.webp",
+      "publicPath": "/solutions2/architectural-acoustics/commercial-office-acoustic/images/content-001.webp",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/office-soundproof-materials_1761734855093.WEBP"
+    },
+    {
+      "file": "images/content-002.webp",
+      "publicPath": "/solutions2/architectural-acoustics/commercial-office-acoustic/images/content-002.webp",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/benefits--office-mute_1761734880357.WEBP"
+    },
+    {
+      "file": "images/content-003.webp",
+      "publicPath": "/solutions2/architectural-acoustics/commercial-office-acoustic/images/content-003.webp",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/soundbox-office-soundproof-materials_1761734914091.WEBP"
+    },
+    {
+      "file": "images/content-004.webp",
+      "publicPath": "/solutions2/architectural-acoustics/commercial-office-acoustic/images/content-004.webp",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/silent-materials-conference-rooms_1761734944404.WEBP"
+    },
+    {
+      "file": "images/content-005.webp",
+      "publicPath": "/solutions2/architectural-acoustics/commercial-office-acoustic/images/content-005.webp",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/office-wall-sound-insulation_1761734967727.WEBP"
+    },
+    {
+      "file": "images/content-006.webp",
+      "publicPath": "/solutions2/architectural-acoustics/commercial-office-acoustic/images/content-006.webp",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/office-soundproof-materials_1761734993893.WEBP"
+    },
+    {
+      "file": "images/content-007.webp",
+      "publicPath": "/solutions2/architectural-acoustics/commercial-office-acoustic/images/content-007.webp",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/soundbox-soundproof-office-booth_1761735015066.WEBP"
+    },
+    {
+      "file": "images/content-008.webp",
+      "publicPath": "/solutions2/architectural-acoustics/commercial-office-acoustic/images/content-008.webp",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/office-soundproof-single-room_1761735050960.WEBP"
+    },
+    {
+      "file": "images/content-009.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/commercial-office-acoustic/images/content-009.jpg",
+      "alt": "G50S",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/G50s_1761813480499.jpg"
+    },
+    {
+      "file": "images/content-010.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/commercial-office-acoustic/images/content-010.jpg",
+      "alt": "G65S",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_115_1750331756761_1761813468504.jpg"
+    },
+    {
+      "file": "images/content-011.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/commercial-office-acoustic/images/content-011.jpg",
+      "alt": "Versailles",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-1_1750331001759_1761814978088.jpg"
+    },
+    {
+      "file": "images/content-012.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/commercial-office-acoustic/images/content-012.jpg",
+      "alt": "Phantom",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_116-3_1750330845074_1761814903547.jpg"
+    },
+    {
+      "file": "images/content-013.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/commercial-office-acoustic/images/content-013.jpg",
+      "alt": "Geometry",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_116-2_1750330809838_1761814780519.jpg"
+    },
+    {
+      "file": "images/content-014.webp",
+      "publicPath": "/solutions2/architectural-acoustics/commercial-office-acoustic/images/content-014.webp",
+      "alt": "ML",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/ML_1762136820111.webp"
+    },
+    {
+      "file": "images/content-015.webp",
+      "publicPath": "/solutions2/architectural-acoustics/commercial-office-acoustic/images/content-015.webp",
+      "alt": "L",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/L_1762136969429.webp"
+    },
+    {
+      "file": "images/content-016.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/commercial-office-acoustic/images/content-016.jpg",
+      "alt": "Matrix Acoustic Baffle",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_116-1_1750382285973_1761813578061.jpg"
+    },
+    {
+      "file": "images/content-017.webp",
+      "publicPath": "/solutions2/architectural-acoustics/commercial-office-acoustic/images/content-017.webp",
+      "alt": "Acoustic Art / Painting",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/acoustic-head-diagram_1760768131894_1761814488124.webp"
+    }
+  ],
+  "sections": [
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "G50S"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "G65S"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Versailles"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Phantom"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Geometry"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Matrix Acoustic Baffle"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Acoustic Art / Painting"
+    }
+  ],
+  "relatedProducts": [
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935268608981319682",
+      "upstreamTitle": "G50S",
+      "localSlug": null,
+      "matched": false
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935283565896179714",
+      "upstreamTitle": "G65S",
+      "localSlug": null,
+      "matched": false
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935529579085340673",
+      "upstreamTitle": "Versailles",
+      "localSlug": null,
+      "matched": false
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935533640375377922",
+      "upstreamTitle": "Phantom",
+      "localSlug": null,
+      "matched": false
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935537016219672578",
+      "upstreamTitle": "Geometry",
+      "localSlug": null,
+      "matched": false
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935871158769213442",
+      "upstreamTitle": "Matrix Acoustic Baffle",
+      "localSlug": "acoustic-baffles",
+      "matched": true
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935912395723300865",
+      "upstreamTitle": "Acoustic Art / Painting",
+      "localSlug": "imagine-acoustic-art",
+      "matched": true
+    }
+  ],
+  "relatedLocalSlugs": [
+    "acoustic-baffles",
+    "imagine-acoustic-art"
+  ],
+  "scrapedAt": "2026-04-18T15:42:34.188Z"
+}

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 40" fill="none" aria-hidden="true">
+  <!-- HIVE - geometric style: red fill, black stroke so both visible on any background -->
+  <text
+    x="2"
+    y="28"
+    font-family="var(--font-sans)"
+    font-weight="500"
+    font-size="32"
+    letter-spacing="0.02em"
+    fill="currentColor"
+    stroke="currentColor"
+    stroke-width="0.4"
+    stroke-linejoin="round"
+    paint-order="stroke fill"
+  >HIVE</text>
+</svg>

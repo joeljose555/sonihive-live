@@ -1,0 +1,282 @@
+{
+  "mainSolution": "Architectural Acoustics",
+  "subSolution": "Multi-functional halls acoustic",
+  "slug": "multi-functional-halls-acoustic",
+  "group": "architectural-acoustics",
+  "sourceUrl": "https://www.soundbox-sys.com/solution/multi-functional-halls-acoustic",
+  "title": "Multi-functional halls acoustic",
+  "pageTitle": "Solution Details - Soundbox",
+  "description": "SoundBox solution details page",
+  "heroImage": "/solutions2/architectural-acoustics/multi-functional-halls-acoustic/images/hero.webp",
+  "images": [
+    {
+      "file": "images/hero.webp",
+      "publicPath": "/solutions2/architectural-acoustics/multi-functional-halls-acoustic/images/hero.webp",
+      "alt": "1937463252964319233",
+      "role": "hero",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/multi-functional-hall-noise-reduction_1761735557124.WEBP"
+    },
+    {
+      "file": "images/content-001.webp",
+      "publicPath": "/solutions2/architectural-acoustics/multi-functional-halls-acoustic/images/content-001.webp",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/audience-listening-report_1761735580555.WEBP"
+    },
+    {
+      "file": "images/content-002.webp",
+      "publicPath": "/solutions2/architectural-acoustics/multi-functional-halls-acoustic/images/content-002.webp",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/impact-poor-sound-effects-lecture-hall_1761735597528.WEBP"
+    },
+    {
+      "file": "images/content-003.webp",
+      "publicPath": "/solutions2/architectural-acoustics/multi-functional-halls-acoustic/images/content-003.webp",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/functional-hall-noise-solution_1761735613834.WEBP"
+    },
+    {
+      "file": "images/content-004.webp",
+      "publicPath": "/solutions2/architectural-acoustics/multi-functional-halls-acoustic/images/content-004.webp",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/staircase-noise-reduction_1761735633525.WEBP"
+    },
+    {
+      "file": "images/content-005.webp",
+      "publicPath": "/solutions2/architectural-acoustics/multi-functional-halls-acoustic/images/content-005.webp",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/indoor-wall-ceiling-noise-reduction_1761735657278.WEBP"
+    },
+    {
+      "file": "images/content-006.webp",
+      "publicPath": "/solutions2/architectural-acoustics/multi-functional-halls-acoustic/images/content-006.webp",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/indoor-ceiling-sound-absorbing-material_1761735683110.WEBP"
+    },
+    {
+      "file": "images/content-007.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/multi-functional-halls-acoustic/images/content-007.jpg",
+      "alt": "Array Acoustic Baffle",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118-1_1750332697358_1761813729340.jpg"
+    },
+    {
+      "file": "images/content-008.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/multi-functional-halls-acoustic/images/content-008.jpg",
+      "alt": "Matrix Acoustic Baffle",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118_1750332636639_1761813590850.jpg"
+    },
+    {
+      "file": "images/content-009.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/multi-functional-halls-acoustic/images/content-009.jpg",
+      "alt": "Fabric acoustic panel",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_116-1_1750332577219_1761813908141.jpg"
+    },
+    {
+      "file": "images/content-010.webp",
+      "publicPath": "/solutions2/architectural-acoustics/multi-functional-halls-acoustic/images/content-010.webp",
+      "alt": "Hacker Acoustic Panel",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/ck1-hacker-sound-absorbing-board_1762920079852.webp"
+    },
+    {
+      "file": "images/content-011.webp",
+      "publicPath": "/solutions2/architectural-acoustics/multi-functional-halls-acoustic/images/content-011.webp",
+      "alt": "Matrix Acoustic Panel",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/ck2-matrix-sound-absorbing-panel_1762930173694.webp"
+    },
+    {
+      "file": "images/content-012.webp",
+      "publicPath": "/solutions2/architectural-acoustics/multi-functional-halls-acoustic/images/content-012.webp",
+      "alt": "Honeycomb Acoustic Panel",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/ck3-honeycomb-acoustic-panel_1762930353634.webp"
+    },
+    {
+      "file": "images/content-013.webp",
+      "publicPath": "/solutions2/architectural-acoustics/multi-functional-halls-acoustic/images/content-013.webp",
+      "alt": "Broadband Acoustic Panel",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/ck-5-broadband-sound-absorbing-panel_1762930668458.webp"
+    },
+    {
+      "file": "images/content-014.webp",
+      "publicPath": "/solutions2/architectural-acoustics/multi-functional-halls-acoustic/images/content-014.webp",
+      "alt": "Slotted Acoustic Panel",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/carbon-calcium-slotted-sound-absorbing-board_1762931128280.webp"
+    },
+    {
+      "file": "images/content-015.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/multi-functional-halls-acoustic/images/content-015.jpg",
+      "alt": "Variable Sound Absorption and Diffusion Unit",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_116-2_1750332200621_1761814291266.jpg"
+    },
+    {
+      "file": "images/content-016.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/multi-functional-halls-acoustic/images/content-016.jpg",
+      "alt": "Variable Sound Absorption and Diffusion Unit",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_116-1_1750332178380_1761814278236.jpg"
+    },
+    {
+      "file": "images/content-018.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/multi-functional-halls-acoustic/images/content-018.jpg",
+      "alt": "Matrix Acoustic Baffle",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_116-1_1750382285973_1761813578061.jpg"
+    },
+    {
+      "file": "images/content-019.webp",
+      "publicPath": "/solutions2/architectural-acoustics/multi-functional-halls-acoustic/images/content-019.webp",
+      "alt": "Carbon Plastic Slotted Acoustic Panel",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/carbon-plastic-slotted-sound-absorbing-board_1762931262040.webp"
+    }
+  ],
+  "sections": [
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Array Acoustic Baffle"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Matrix Acoustic Baffle"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Fabric acoustic panel"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Hacker Acoustic Panel"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Matrix Acoustic Panel"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Honeycomb Acoustic Panel"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Broadband Acoustic Panel"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Slotted Acoustic Panel"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Variable Sound Absorption and Diffusion Unit"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Solid Wood Diffusion Unit"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Carbon Plastic Slotted Acoustic Panel"
+    }
+  ],
+  "relatedProducts": [
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935246704853630977",
+      "upstreamTitle": "Array Acoustic Baffle",
+      "localSlug": "acoustic-baffles",
+      "matched": true
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935256128322256898",
+      "upstreamTitle": "Matrix Acoustic Baffle",
+      "localSlug": "acoustic-baffles",
+      "matched": true
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935262649860997121",
+      "upstreamTitle": "Fabric acoustic panel",
+      "localSlug": "fabric-acoustic-panels",
+      "matched": true
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935264788498857986",
+      "upstreamTitle": "Hacker Acoustic Panel",
+      "localSlug": "fabric-acoustic-panels",
+      "matched": true
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935265681776558082",
+      "upstreamTitle": "Matrix Acoustic Panel",
+      "localSlug": "fabric-acoustic-panels",
+      "matched": true
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935269704655159297",
+      "upstreamTitle": "Broadband Acoustic Panel",
+      "localSlug": "fabric-acoustic-panels",
+      "matched": true
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935271239728480257",
+      "upstreamTitle": "Slotted Acoustic Panel",
+      "localSlug": "fabric-acoustic-panels",
+      "matched": true
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935283966599012353",
+      "upstreamTitle": "Variable Sound Absorption and Diffusion Unit",
+      "localSlug": null,
+      "matched": false
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935285057185161217",
+      "upstreamTitle": "Variable Sound Absorption and Diffusion Unit",
+      "localSlug": null,
+      "matched": false
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935668950761005058",
+      "upstreamTitle": "Solid Wood Diffusion Unit",
+      "localSlug": null,
+      "matched": false
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935871158769213442",
+      "upstreamTitle": "Matrix Acoustic Baffle",
+      "localSlug": "acoustic-baffles",
+      "matched": true
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935879920007569409",
+      "upstreamTitle": "Carbon Plastic Slotted Acoustic Panel",
+      "localSlug": "fabric-acoustic-panels",
+      "matched": true
+    }
+  ],
+  "relatedLocalSlugs": [
+    "acoustic-baffles",
+    "fabric-acoustic-panels"
+  ],
+  "scrapedAt": "2026-04-18T15:44:28.722Z"
+}

@@ -1,0 +1,239 @@
+{
+  "mainSolution": "Architectural Acoustics",
+  "subSolution": "Hotels and Hospitality",
+  "slug": "hotels-and-hospitality-acoustic",
+  "group": "architectural-acoustics",
+  "sourceUrl": "https://www.soundbox-sys.com/solution/hotels-and-hospitality-acoustic",
+  "title": "Hotels and Hospitality",
+  "pageTitle": "Solution Details - Soundbox",
+  "description": "SoundBox solution details page",
+  "heroImage": "/solutions2/architectural-acoustics/hotels-and-hospitality-acoustic/images/hero.webp",
+  "images": [
+    {
+      "file": "images/hero.webp",
+      "publicPath": "/solutions2/architectural-acoustics/hotels-and-hospitality-acoustic/images/hero.webp",
+      "alt": "1929796370601320449",
+      "role": "hero",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/hotel-lobby-noise-reduction_1761735906792.webp"
+    },
+    {
+      "file": "images/content-001.webp",
+      "publicPath": "/solutions2/architectural-acoustics/hotels-and-hospitality-acoustic/images/content-001.webp",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/impact-of-noise-on-residential-areas_1761735928857.WEBP"
+    },
+    {
+      "file": "images/content-002.webp",
+      "publicPath": "/solutions2/architectural-acoustics/hotels-and-hospitality-acoustic/images/content-002.webp",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/importance-of-hotel-soundproofing_1761735954493.WEBP"
+    },
+    {
+      "file": "images/content-003.webp",
+      "publicPath": "/solutions2/architectural-acoustics/hotels-and-hospitality-acoustic/images/content-003.webp",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/hotel-soundproof-door_1761735988321.WEBP"
+    },
+    {
+      "file": "images/content-004.webp",
+      "publicPath": "/solutions2/architectural-acoustics/hotels-and-hospitality-acoustic/images/content-004.webp",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/wall-sound-insulation-structure_1761736011317.WEBP"
+    },
+    {
+      "file": "images/content-005.webp",
+      "publicPath": "/solutions2/architectural-acoustics/hotels-and-hospitality-acoustic/images/content-005.webp",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/hotel-floor-sound-insulation_1761736032499.WEBP"
+    },
+    {
+      "file": "images/content-006.webp",
+      "publicPath": "/solutions2/architectural-acoustics/hotels-and-hospitality-acoustic/images/content-006.webp",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/ceiling-sound-insulation-structure_1761736049645.WEBP"
+    },
+    {
+      "file": "images/content-007.webp",
+      "publicPath": "/solutions2/architectural-acoustics/hotels-and-hospitality-acoustic/images/content-007.webp",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/pipeline-noise-reduction_1761736069770.WEBP"
+    },
+    {
+      "file": "images/content-008.webp",
+      "publicPath": "/solutions2/architectural-acoustics/hotels-and-hospitality-acoustic/images/content-008.webp",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/hotel-ventilation-fan-noise-reduction_1761736091928.WEBP"
+    },
+    {
+      "file": "images/content-009.webp",
+      "publicPath": "/solutions2/architectural-acoustics/hotels-and-hospitality-acoustic/images/content-009.webp",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/hotel-air-conditioning-noise-reduction_1761736109757.WEBP"
+    },
+    {
+      "file": "images/content-010.webp",
+      "publicPath": "/solutions2/architectural-acoustics/hotels-and-hospitality-acoustic/images/content-010.webp",
+      "alt": "",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/jeditor/hotel-silent-cabin_1761736132845.WEBP"
+    },
+    {
+      "file": "images/content-011.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/hotels-and-hospitality-acoustic/images/content-011.jpg",
+      "alt": "Engineering Soundproof Door",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/G55j_1761813659515.jpg"
+    },
+    {
+      "file": "images/content-012.webp",
+      "publicPath": "/solutions2/architectural-acoustics/hotels-and-hospitality-acoustic/images/content-012.webp",
+      "alt": "Byer Acoustic Cotton",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/bayer-acoustic-cotton_1763103268950.webp"
+    },
+    {
+      "file": "images/content-013.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/hotels-and-hospitality-acoustic/images/content-013.jpg",
+      "alt": "Damping Sound Insulation Sheet (Single-Sided Aluminum Foil)",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118_1750410057000_1761818168143.jpg"
+    },
+    {
+      "file": "images/content-014.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/hotels-and-hospitality-acoustic/images/content-014.jpg",
+      "alt": "Home Silent Pod",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/%E5%8D%95%E4%BA%BA%E5%B0%96%E9%A1%B6_1761813190439.jpg"
+    },
+    {
+      "file": "images/content-015.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/hotels-and-hospitality-acoustic/images/content-015.jpg",
+      "alt": "Floor Damping Sound-Insulating Coating",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/________1750409818275_1761816508089.jpg"
+    },
+    {
+      "file": "images/content-016.jpg",
+      "publicPath": "/solutions2/architectural-acoustics/hotels-and-hospitality-acoustic/images/content-016.jpg",
+      "alt": "Damping Sound-Insulating Flooring (Wood Grain)",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/_118_1750410539853_1761817150811.jpg"
+    },
+    {
+      "file": "images/content-017.webp",
+      "publicPath": "/solutions2/architectural-acoustics/hotels-and-hospitality-acoustic/images/content-017.webp",
+      "alt": "Acoustic Art / Painting",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/acoustic-head-diagram_1760768131894_1761814488124.webp"
+    },
+    {
+      "file": "images/content-018.png",
+      "publicPath": "/solutions2/architectural-acoustics/hotels-and-hospitality-acoustic/images/content-018.png",
+      "alt": "Low-Noise Exhaust Fan",
+      "role": "content",
+      "sourceUrl": "https://oss-api.soundbox-sys.com/temp/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20250621131214_1750482744415_1761814553132.png"
+    }
+  ],
+  "sections": [
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Engineering Soundproof Door"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Byer Acoustic Cotton"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Damping Sound Insulation Sheet (Single-Sided Aluminum Foil)"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Home Silent Pod"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Floor Damping Sound-Insulating Coating"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Damping Sound-Insulating Flooring (Wood Grain)"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Acoustic Art / Painting"
+    },
+    {
+      "type": "h3",
+      "level": 3,
+      "text": "Low-Noise Exhaust Fan"
+    }
+  ],
+  "relatedProducts": [
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935287557632073730",
+      "upstreamTitle": "Engineering Soundproof Door",
+      "localSlug": "soundproof-door",
+      "matched": true
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935289980996067330",
+      "upstreamTitle": "Byer Acoustic Cotton",
+      "localSlug": null,
+      "matched": false
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935306430385266690",
+      "upstreamTitle": "Damping Sound Insulation Sheet (Single-Sided Aluminum Foil)",
+      "localSlug": "sound-insulation",
+      "matched": true
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935615590519332865",
+      "upstreamTitle": "Floor Damping Sound-Insulating Coating",
+      "localSlug": null,
+      "matched": false
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935660471778336769",
+      "upstreamTitle": "Damping Sound-Insulating Flooring (Wood Grain)",
+      "localSlug": null,
+      "matched": false
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1935912395723300865",
+      "upstreamTitle": "Acoustic Art / Painting",
+      "localSlug": "imagine-acoustic-art",
+      "matched": true
+    },
+    {
+      "sourceUrl": "https://www.soundbox-sys.com/products/detail/1936263374464589825",
+      "upstreamTitle": "Low-Noise Exhaust Fan",
+      "localSlug": "silent-exhaust-fans",
+      "matched": true
+    }
+  ],
+  "relatedLocalSlugs": [
+    "soundproof-door",
+    "sound-insulation",
+    "imagine-acoustic-art",
+    "silent-exhaust-fans"
+  ],
+  "scrapedAt": "2026-04-18T15:43:23.220Z"
+}
