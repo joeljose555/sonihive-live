@@ -1018,7 +1018,7 @@ export function IndustriesSection({
             {[
               { value: "35+", label: "Industries Served" },
               { value: "2,400+", label: "Projects Delivered" },
-              { value: "18", label: "Countries" },
+              { value: "6", label: "Countries" },
               { value: "99.2%", label: "Client Satisfaction" },
             ].map((stat, i) => (
               <motion.div
